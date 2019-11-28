@@ -1,0 +1,227 @@
+{
+   "rubrics":[
+      {
+         "alias":"avarijjnye_spravochnye_ehkstrennye_sluzhby",
+         "branch_count":125,
+         "id":"5419",
+         "name":"Аварийные / справочные / экстренные службы",
+         "org_count":117,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"avtoservis_avtotovary",
+         "branch_count":1758,
+         "id":"42903",
+         "name":"Автосервис / Автотовары",
+         "org_count":1537,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"gorod_vlast",
+         "branch_count":710,
+         "id":"1",
+         "name":"Город / Власть",
+         "org_count":524,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"dosug_razvlecheniya_obshhestvennoe_pitanie",
+         "branch_count":1771,
+         "id":"2",
+         "name":"Досуг / Развлечения / Общественное питание",
+         "org_count":1386,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"internet_svyaz_informacionnye_tekhnologii",
+         "branch_count":957,
+         "id":"19532",
+         "name":"Интернет / Связь / Информационные технологии",
+         "org_count":725,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"kommunalnye_bytovye_ritualnye_uslugi",
+         "branch_count":1580,
+         "id":"10",
+         "name":"Коммунальные / бытовые / ритуальные услуги",
+         "org_count":1043,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"kompyutery_bytovaya_tekhnika_ofisnaya_tekhnika",
+         "branch_count":635,
+         "id":"3",
+         "name":"Компьютеры / Бытовая техника / Офисная техника",
+         "org_count":488,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"kultura_iskusstvo_religiya",
+         "branch_count":168,
+         "id":"4",
+         "name":"Культура / Искусство / Религия",
+         "org_count":133,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"mebel_materialy_furnitura",
+         "branch_count":664,
+         "id":"787",
+         "name":"Мебель / Материалы / Фурнитура",
+         "org_count":525,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"medicina_zdorove_krasota",
+         "branch_count":2829,
+         "id":"5",
+         "name":"Медицина / Здоровье / Красота",
+         "org_count":2054,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"metally_toplivo_khimiya",
+         "branch_count":426,
+         "id":"13",
+         "name":"Металлы / Топливо / Химия",
+         "org_count":379,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"oborudovanie_instrument",
+         "branch_count":1134,
+         "id":"15",
+         "name":"Оборудование / Инструмент",
+         "org_count":971,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"obrazovanie_rabota_karera",
+         "branch_count":1186,
+         "id":"6",
+         "name":"Образование / Работа / Карьера",
+         "org_count":956,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"odezhda_obuv",
+         "branch_count":2183,
+         "id":"1035",
+         "name":"Одежда / Обувь",
+         "org_count":1653,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"okhrana_bezopasnost",
+         "branch_count":326,
+         "id":"1621",
+         "name":"Охрана / Безопасность",
+         "org_count":308,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"produkty_pitaniya_napitki",
+         "branch_count":2456,
+         "id":"14",
+         "name":"Продукты питания / Напитки",
+         "org_count":1557,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"reklama_poligrafiya_smi",
+         "branch_count":778,
+         "id":"7",
+         "name":"Реклама / Полиграфия / СМИ",
+         "org_count":617,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"sport_otdykh_turizm",
+         "branch_count":1150,
+         "id":"8",
+         "name":"Спорт / Отдых / Туризм",
+         "org_count":992,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"stroitelnye_otdelochnye_materialy",
+         "branch_count":1214,
+         "id":"42867",
+         "name":"Строительные / отделочные материалы",
+         "org_count":1075,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"stroitelstvo_nedvizhimost_remont",
+         "branch_count":2019,
+         "id":"9",
+         "name":"Строительство / Недвижимость / Ремонт",
+         "org_count":1839,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"tekstil_predmety_interera",
+         "branch_count":544,
+         "id":"42872",
+         "name":"Текстиль / Предметы интерьера",
+         "org_count":422,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"tovary_dlya_zhivotnykh_veterinariya",
+         "branch_count":231,
+         "id":"746",
+         "name":"Товары для животных / Ветеринария",
+         "org_count":174,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"torgovye_kompleksy_specmagaziny",
+         "branch_count":1248,
+         "id":"6547",
+         "name":"Торговые комплексы / Спецмагазины",
+         "org_count":761,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"transport_gruzoperevozki",
+         "branch_count":1221,
+         "id":"12",
+         "name":"Транспорт / Грузоперевозки",
+         "org_count":1122,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"khoztovary_kancelyariya_upakovka",
+         "branch_count":878,
+         "id":"11",
+         "name":"Хозтовары / Канцелярия / Упаковка",
+         "org_count":634,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"ehlektronika_ehlektrotekhnika",
+         "branch_count":455,
+         "id":"42863",
+         "name":"Электроника / Электротехника",
+         "org_count":394,
+         "type":"general_rubric"
+      },
+      {
+         "alias":"yuridicheskie_finansovye_biznes_uslugi",
+         "branch_count":1995,
+         "id":"969",
+         "name":"Юридические / финансовые / бизнес-услуги",
+         "org_count":1225,
+         "type":"general_rubric"
+      }
+   ],
+   "regions": {
+     "khabarovsk": {
+       "id": "35",
+       "name": "Хабаровск",
+       "type": "region"
+     }
+   }
+}
