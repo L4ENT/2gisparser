@@ -1,0 +1,108 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "branch_count":89,
+            "caption":"Отделочные материалы",
+            "icon_url":"http://disk.2gis.com/rubricator/renovationcc9938f310c5a716a53243f77f317b45.svg",
+            "id":"9776",
+            "name":"Отделочные материалы",
+            "org_count":66,
+            "tag":"renovation",
+            "title":"Отделочные материалы",
+            "type":"rubric"
+         },
+         {
+            "branch_count":126,
+            "caption":"Стройматериалы",
+            "icon_url":"http://disk.2gis.com/rubricator/building_renovatione3de795db10fafc54896d042d781e549.svg",
+            "id":"9777",
+            "name":"Строительные материалы",
+            "org_count":103,
+            "tag":"building_renovation",
+            "title":"Стройматериалы",
+            "type":"rubric"
+         },
+         {
+            "branch_count":130,
+            "caption":"Окна",
+            "icon_url":"http://disk.2gis.com/rubricator/windows1a02bdf90115720b516f877465fb9bb2.svg",
+            "id":"288",
+            "name":"Окна",
+            "org_count":115,
+            "seo_name":"Окна — производство, продажа, установка, ремонт",
+            "tag":"windows",
+            "title":"Окна",
+            "type":"rubric"
+         },
+         {
+            "caption":"Двери",
+            "icon_url":"http://disk.2gis.com/rubricator/doors4d2b053be8865792c39e6c6067122111.svg",
+            "id":"110599",
+            "name":"Двери",
+            "search_query":"",
+            "tag":"doors",
+            "title":"Двери",
+            "type":"metarubric"
+         },
+         {
+            "branch_count":124,
+            "caption":"Кровля",
+            "icon_url":"http://disk.2gis.com/rubricator/roofe171c2053d83421f80ee2a057b81acf4.svg",
+            "id":"284",
+            "name":"Кровельные материалы",
+            "org_count":109,
+            "seo_name":"Кровля, кровельные материалы",
+            "tag":"roof",
+            "title":"Кровля",
+            "type":"rubric"
+         },
+         {
+            "caption":"Сантехника",
+            "icon_url":"http://disk.2gis.com/rubricator/plumbing0fbccfb8707a719eca2c4750ab229faf.svg",
+            "id":"110600",
+            "name":"Сантехника",
+            "search_query":"",
+            "tag":"plumbing",
+            "title":"Сантехника",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Инструмент",
+            "icon_url":"http://disk.2gis.com/rubricator/tools4ac652fde372389baab51b483e26c8e1.svg",
+            "id":"110601",
+            "name":"Инструмент",
+            "search_query":"",
+            "tag":"tools",
+            "title":"Инструмент",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Услуги",
+            "icon_url":"http://disk.2gis.com/rubricator/services2c3f4e671deabdd1cc37091ba118af86e.svg",
+            "id":"110571",
+            "name":"Услуги",
+            "search_query":"",
+            "tag":"services2",
+            "title":"Строительные услуги",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Ещё",
+            "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+            "id":"110602",
+            "name":"Ещё",
+            "search_query":"",
+            "tag":"other",
+            "title":"Ремонт и строительство",
+            "type":"metarubric"
+         }
+      ],
+      "total":9
+   }
+}

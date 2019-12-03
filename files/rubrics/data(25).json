@@ -1,0 +1,66 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "branch_count":98,
+            "caption":"Фитнес-клубы",
+            "icon_url":"http://disk.2gis.com/rubricator/fitness01b574d3e4759f5a031c86516afe28ca.svg",
+            "id":"268",
+            "name":"Фитнес-клубы",
+            "org_count":84,
+            "seo_name":"Фитнес-клубы / центры",
+            "tag":"fitness",
+            "title":"Фитнес-клубы",
+            "type":"rubric"
+         },
+         {
+            "branch_count":74,
+            "caption":"Тренажёрные залы",
+            "icon_url":"http://disk.2gis.com/rubricator/gym2bb6172444cc3ac47039413c78970f12.svg",
+            "id":"267",
+            "name":"Тренажёрные залы",
+            "org_count":67,
+            "tag":"gym",
+            "title":"Тренажёрные залы",
+            "type":"rubric"
+         },
+         {
+            "branch_count":147,
+            "caption":"Секции",
+            "icon_url":"http://disk.2gis.com/rubricator/section0c002ca6e331324632242942fdf397ff.svg",
+            "id":"51256",
+            "name":"Спортивные секции",
+            "org_count":105,
+            "tag":"section",
+            "title":"Секции",
+            "type":"rubric"
+         },
+         {
+            "caption":"Спорткомплексы",
+            "icon_url":"http://disk.2gis.com/rubricator/stadiumsbf6b87d18bb070a399c14ad936ace04e.svg",
+            "id":"110586",
+            "name":"Спорткомплексы",
+            "search_query":"",
+            "tag":"stadiums",
+            "title":"Спортивные комплексы",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Ещё",
+            "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+            "id":"111550",
+            "name":"Ещё",
+            "search_query":"",
+            "tag":"other",
+            "title":"Спорт",
+            "type":"metarubric"
+         }
+      ],
+      "total":5
+   }
+}

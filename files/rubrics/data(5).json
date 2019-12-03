@@ -1,0 +1,98 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "branch_count":30,
+               "caption":"Кейтеринг",
+               "id":"9786",
+               "name":"Кейтеринг",
+               "org_count":30,
+               "seo_name":"Кейтеринг, кейтеринговые компании",
+               "title":"Кейтеринг",
+               "type":"rubric"
+            },
+            {
+               "branch_count":60,
+               "caption":"Безалкогольные напитки",
+               "id":"58871",
+               "name":"Точки безалкогольных напитков",
+               "org_count":36,
+               "title":"Безалкогольные напитки",
+               "type":"rubric"
+            },
+            {
+               "branch_count":3,
+               "caption":"Чайные клубы",
+               "id":"110317",
+               "name":"Чайные клубы",
+               "org_count":2,
+               "title":"Чайные клубы",
+               "type":"rubric"
+            },
+            {
+               "branch_count":294,
+               "caption":"Быстрое питание",
+               "id":"165",
+               "name":"Быстрое питание",
+               "org_count":172,
+               "title":"Быстрое питание",
+               "type":"rubric"
+            },
+            {
+               "branch_count":110,
+               "caption":"Кофейни",
+               "id":"162",
+               "name":"Кафе-кондитерские / Кофейни",
+               "org_count":58,
+               "title":"Кофейни",
+               "type":"rubric"
+            },
+            {
+               "branch_count":22,
+               "caption":"Готовые блюда",
+               "id":"16677",
+               "name":"Кулинарии",
+               "org_count":19,
+               "title":"Готовые блюда",
+               "type":"rubric"
+            },
+            {
+               "branch_count":40,
+               "caption":"Пиццерии",
+               "id":"51459",
+               "name":"Пиццерии",
+               "org_count":26,
+               "seo_name":"Пицца (пиццерии)",
+               "title":"Пиццерии",
+               "type":"rubric"
+            },
+            {
+               "branch_count":80,
+               "caption":"Столовые",
+               "id":"166",
+               "name":"Столовые",
+               "org_count":70,
+               "seo_name":"Столовые",
+               "title":"Столовые",
+               "type":"rubric"
+            },
+            {
+               "branch_count":26,
+               "caption":"Суши-бары",
+               "id":"15791",
+               "name":"Суши-бары / рестораны",
+               "org_count":22,
+               "title":"Суши-бары",
+               "type":"rubric"
+            }
+         ],
+         "total":9
+      }
+   }
+}

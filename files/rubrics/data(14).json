@@ -1,0 +1,79 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "caption":"Запчасти",
+               "icon_url":"http://disk.2gis.com/rubricator/repair_parts169187922255316945e66a1ed9aec2a6.svg",
+               "id":"110553",
+               "name":"Запчасти",
+               "search_query":"",
+               "tag":"repair_parts",
+               "title":"Запчасти",
+               "type":"metarubric"
+            },
+            {
+               "branch_count":105,
+               "caption":"Шины, диски",
+               "icon_url":"http://disk.2gis.com/rubricator/tiresee3b9dbc39fa605ae18713328aca6300.svg",
+               "id":"427",
+               "name":"Шины / Диски",
+               "org_count":87,
+               "tag":"tires",
+               "title":"Шины, диски",
+               "type":"rubric"
+            },
+            {
+               "caption":"Автотранспорт",
+               "icon_url":"http://disk.2gis.com/rubricator/auto802a47f3f951b7994f4ae8735479e33d.svg",
+               "id":"110554",
+               "name":"Автотранспорт",
+               "search_query":"",
+               "tag":"auto",
+               "title":"Автотранспорт",
+               "type":"metarubric"
+            },
+            {
+               "branch_count":299,
+               "caption":"Масла, автохимия",
+               "icon_url":"http://disk.2gis.com/rubricator/oil58e37e5a3450547a594395583593b535.svg",
+               "id":"426",
+               "name":"Автомасла / Мотомасла / Химия",
+               "org_count":252,
+               "seo_name":"Автохимия / Моторное масло",
+               "tag":"oil",
+               "title":"Масла, автохимия",
+               "type":"rubric"
+            },
+            {
+               "branch_count":101,
+               "caption":"Автоаккумуляторы",
+               "icon_url":"http://disk.2gis.com/rubricator/batterya93707f841b5c78491c0e2ba2b55d9eb.svg",
+               "id":"524",
+               "name":"Автомобильные аккумуляторы",
+               "org_count":76,
+               "seo_name":"Автомобильные аккумуляторы (аккумуляторы для автомобиля)",
+               "tag":"battery",
+               "title":"Автоаккумуляторы",
+               "type":"rubric"
+            },
+            {
+               "caption":"Ещё",
+               "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+               "id":"110555",
+               "name":"Ещё",
+               "search_query":"",
+               "tag":"other",
+               "title":"Автотовары",
+               "type":"metarubric"
+            }
+         ],
+         "total":6
+      }
+   }
+}

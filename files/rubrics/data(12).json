@@ -1,0 +1,92 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "branch_count":334,
+               "caption":"Аптеки",
+               "icon_url":"http://disk.2gis.com/rubricator/pharmacies21462c2d7f7c5be5dd8d2e1737bf8b28.svg",
+               "id":"207",
+               "name":"Аптеки",
+               "org_count":112,
+               "tag":"pharmacies",
+               "title":"Аптеки",
+               "type":"rubric"
+            },
+            {
+               "branch_count":180,
+               "caption":"Стоматологии",
+               "icon_url":"http://disk.2gis.com/rubricator/dentistry4c537b37de30e1822ac2e3d136ead5ef.svg",
+               "id":"222",
+               "name":"Стоматологические центры",
+               "org_count":170,
+               "seo_name":"Стоматологии, стоматологические клиники",
+               "tag":"dentistry",
+               "title":"Стоматологии",
+               "type":"rubric"
+            },
+            {
+               "branch_count":74,
+               "caption":"Мед.центры",
+               "icon_url":"http://disk.2gis.com/rubricator/med_center48abd827ed6f57786fdc240a6f18473b.svg",
+               "id":"4521",
+               "name":"Многопрофильные медицинские центры",
+               "org_count":56,
+               "seo_name":"Многопрофильные медицинские центры (медцентры)",
+               "tag":"med_center",
+               "title":"Мед.центры",
+               "type":"rubric"
+            },
+            {
+               "branch_count":67,
+               "caption":"Анализы",
+               "icon_url":"http://disk.2gis.com/rubricator/analyzes5c7c11705fe652acfa78874c25c37b53.svg",
+               "id":"12211",
+               "name":"Медицинские анализы",
+               "org_count":38,
+               "tag":"analyzes",
+               "title":"Анализы",
+               "type":"rubric"
+            },
+            {
+               "branch_count":94,
+               "caption":"Больницы",
+               "icon_url":"http://disk.2gis.com/rubricator/hospital697415f997519e74ae4be42bb49dc25a.svg",
+               "id":"201",
+               "name":"Больницы",
+               "org_count":13,
+               "seo_name":"Больницы / Клиники",
+               "tag":"hospital",
+               "title":"Больницы",
+               "type":"rubric"
+            },
+            {
+               "caption":"Медтовары",
+               "icon_url":"http://disk.2gis.com/rubricator/medical_goodsa54496d8f2acdf9e680b948687d825b3.svg",
+               "id":"110550",
+               "name":"Медтовары",
+               "search_query":"",
+               "tag":"medical_goods",
+               "title":"Медтовары",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Ещё",
+               "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+               "id":"110551",
+               "name":"Ещё",
+               "search_query":"",
+               "tag":"other",
+               "title":"Медицина",
+               "type":"metarubric"
+            }
+         ],
+         "total":7
+      }
+   }
+}

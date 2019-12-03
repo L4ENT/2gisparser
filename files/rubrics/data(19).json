@@ -1,0 +1,81 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "branch_count":102,
+            "caption":"Гостиницы",
+            "icon_url":"http://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+            "id":"269",
+            "name":"Гостиницы",
+            "org_count":95,
+            "seo_name":"Гостиницы (отели)",
+            "tag":"hotels",
+            "title":"Гостиницы",
+            "type":"rubric"
+         },
+         {
+            "branch_count":217,
+            "caption":"Турагентства",
+            "icon_url":"http://disk.2gis.com/rubricator/tourism9d05040123bf80e8ae11a65ba2e09f9a.svg",
+            "id":"272",
+            "name":"Туристические агентства",
+            "org_count":210,
+            "seo_name":"Туристические агентства (турагентства, турфирмы)",
+            "tag":"tourism",
+            "title":"Турагентства",
+            "type":"rubric"
+         },
+         {
+            "branch_count":22,
+            "caption":"Хостелы",
+            "icon_url":"http://disk.2gis.com/rubricator/hostelsee18ecbc5420b28ceaa5c421343cb72f.svg",
+            "id":"52681",
+            "name":"Хостелы",
+            "org_count":22,
+            "tag":"hostels",
+            "title":"Хостелы",
+            "type":"rubric"
+         },
+         {
+            "branch_count":26,
+            "caption":"Квартирные бюро",
+            "icon_url":"http://disk.2gis.com/rubricator/appartments80c673385f447a425215c3ae5f10566b.svg",
+            "id":"19487",
+            "name":"Квартирные бюро",
+            "org_count":26,
+            "seo_name":"Квартиры посуточно",
+            "tag":"appartments",
+            "title":"Квартирные бюро",
+            "type":"rubric"
+         },
+         {
+            "branch_count":38,
+            "caption":"Базы отдыха",
+            "icon_url":"http://disk.2gis.com/rubricator/basesdd9c99a7ee4ca392dc0e77ad1b6b0624.svg",
+            "id":"547",
+            "name":"Базы отдыха",
+            "org_count":37,
+            "seo_name":"Дома / базы отдыха / Пансионаты / Турбазы",
+            "tag":"bases",
+            "title":"Базы отдыха",
+            "type":"rubric"
+         },
+         {
+            "caption":"Ещё",
+            "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+            "id":"110575",
+            "name":"Ещё",
+            "search_query":"",
+            "tag":"other",
+            "title":"Туризм",
+            "type":"metarubric"
+         }
+      ],
+      "total":6
+   }
+}

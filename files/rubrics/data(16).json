@@ -1,0 +1,94 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "caption":"Торговые центры",
+               "icon_url":"http://disk.2gis.com/rubricator/malls7268be1b17956b6fe7d73e16fd47d7c6.svg",
+               "id":"110557",
+               "name":"Торговые центры",
+               "search_query":"",
+               "tag":"malls",
+               "title":"Торговые центры",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Детские",
+               "icon_url":"http://disk.2gis.com/rubricator/child5ebfde8aeb429efed21734a5f6a362bd.svg",
+               "id":"110558",
+               "name":"Детские",
+               "search_query":"",
+               "tag":"child",
+               "title":"Детские товары",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Спорт. товары",
+               "icon_url":"http://disk.2gis.com/rubricator/sport_goods862a7980def665b5a743f9f1da6b2745.svg",
+               "id":"110559",
+               "name":"Спорт. товары",
+               "search_query":"Спортивные товары",
+               "tag":"sport_goods",
+               "title":"Спорттовары",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Текстиль",
+               "icon_url":"http://disk.2gis.com/rubricator/textile250cf2586f803f1683d0b118895f6a53.svg",
+               "id":"110560",
+               "name":"Текстиль",
+               "search_query":"Текстиль",
+               "tag":"textile",
+               "title":"Текстиль",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Канцтовары и книги",
+               "icon_url":"http://disk.2gis.com/rubricator/stationery694ad57f7f2d384d2ccc6fa310876228.svg",
+               "id":"110561",
+               "name":"Канцтовары и книги",
+               "search_query":"Канцтовары и книги",
+               "tag":"stationery",
+               "title":"Канцтовары и книги",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Техника",
+               "icon_url":"http://disk.2gis.com/rubricator/appliancesd9fa224e4a561ea0a9d95a66ae11744e.svg",
+               "id":"110562",
+               "name":"Техника",
+               "search_query":"Техника",
+               "tag":"appliances",
+               "title":"Техника",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Хозтовары",
+               "icon_url":"http://disk.2gis.com/rubricator/household_goodsaa7e71af216aa2f7eff494a5037634ab.svg",
+               "id":"110563",
+               "name":"Хозтовары",
+               "search_query":"",
+               "tag":"household_goods",
+               "title":"Хозяйственные товары",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Для животных",
+               "icon_url":"http://disk.2gis.com/rubricator/petsd964439447be01bd05816007e434645f.svg",
+               "id":"110564",
+               "name":"Для животных",
+               "search_query":"",
+               "tag":"pets",
+               "title":"Товары для животных",
+               "type":"metarubric"
+            }
+         ],
+         "total":8
+      }
+   }
+}

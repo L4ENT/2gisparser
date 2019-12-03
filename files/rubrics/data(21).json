@@ -1,0 +1,82 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "caption":"Мебель",
+            "icon_url":"http://disk.2gis.com/rubricator/furniturecd6bf164cdf428889bbba2c57838f41f.svg",
+            "id":"110577",
+            "name":"Мебель",
+            "search_query":"",
+            "tag":"furniture",
+            "title":"Мебель",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Цветы",
+            "icon_url":"http://disk.2gis.com/rubricator/flowersc3028f03f1fb9d0e23618b3e030269f3.svg",
+            "id":"110578",
+            "name":"Цветы",
+            "search_query":"",
+            "tag":"flowers",
+            "title":"Цветы",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Одежда",
+            "icon_url":"http://disk.2gis.com/rubricator/clothes9901f5474a17544a920f9ec408d738f7.svg",
+            "id":"110579",
+            "name":"Одежда",
+            "search_query":"",
+            "tag":"clothes",
+            "title":"Одежда",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Обувь",
+            "icon_url":"http://disk.2gis.com/rubricator/footwear104f27774bf6a7ccb5368c649cb6de33.svg",
+            "id":"110580",
+            "name":"Обувь",
+            "search_query":"Обувь",
+            "tag":"footwear",
+            "title":"Обувь",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Ювелирные изделия",
+            "icon_url":"http://disk.2gis.com/rubricator/jewelry5e2aaa9dc15d3c548abfb02b611a7291.svg",
+            "id":"110641",
+            "name":"Ювелирные изделия",
+            "search_query":"Ювелирные изделия",
+            "tag":"jewelry",
+            "title":"Ювелирные изделия",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Сувениры",
+            "icon_url":"http://disk.2gis.com/rubricator/souvenirs0ea4696def8ebda5c6618063a88cbf8c.svg",
+            "id":"110642",
+            "name":"Сувениры",
+            "search_query":"",
+            "tag":"souvenirs",
+            "title":"Сувениры",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Ещё",
+            "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+            "id":"110581",
+            "name":"Ещё",
+            "search_query":"",
+            "tag":"other",
+            "title":"Специальные магазины",
+            "type":"metarubric"
+         }
+      ],
+      "total":7
+   }
+}

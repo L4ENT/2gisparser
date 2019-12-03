@@ -1,0 +1,62 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "caption":"Металлы",
+            "icon_url":"http://disk.2gis.com/rubricator/metall3acb53e143fa1866b0b8c0caba4d194c.svg",
+            "id":"110604",
+            "name":"Металлы",
+            "search_query":"",
+            "tag":"metall",
+            "title":"Металлы",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Оборудование",
+            "icon_url":"http://disk.2gis.com/rubricator/equipment6231e938f31564ab0ffcda1dae5635fe.svg",
+            "id":"110605",
+            "name":"Оборудование",
+            "search_query":"",
+            "tag":"equipment",
+            "title":"Промышленное оборудование",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Химия и вторсырьё",
+            "icon_url":"http://disk.2gis.com/rubricator/chemistry3bc1357ae8626fbc1f76fc8d597df50f.svg",
+            "id":"110606",
+            "name":"Химия и вторсырьё",
+            "search_query":"",
+            "tag":"chemistry",
+            "title":"Химия и вторсырьё",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Тара и упаковка",
+            "icon_url":"http://disk.2gis.com/rubricator/packagingca7de75c1d219fa5c8c477847b252762.svg",
+            "id":"110607",
+            "name":"Тара и упаковка",
+            "search_query":"",
+            "tag":"packaging",
+            "title":"Тара и упаковка",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Топливо",
+            "icon_url":"http://disk.2gis.com/rubricator/fuelebd3aae72ca36b817d8ac07b2d8b720f.svg",
+            "id":"110608",
+            "name":"Топливо",
+            "search_query":"",
+            "tag":"fuel",
+            "title":"Топливо",
+            "type":"metarubric"
+         }
+      ],
+      "total":5
+   }
+}

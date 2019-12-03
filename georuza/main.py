@@ -84,9 +84,9 @@ class DataFetcher:
         return response_json
 
     def fetch_branches(self, region_id:int):
-        with open(settings.FILES_DIR / '2gis-data.json') as f:
-            data = json.loads(f.read())
-        for rubric in data['rubrics']:
+        with open(settings.FILES_DIR / '2gis-rubrics-data.json') as f:
+            rubrics = json.loads(f.read())
+        for rubric in rubrics:
             self.fetch_branches_by_rubric(rubric, region_id)
 
 

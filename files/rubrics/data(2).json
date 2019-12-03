@@ -1,0 +1,64 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "caption":"Религия",
+               "icon_url":"http://disk.2gis.com/rubricator/religion9ee7657f273cf82864a94ab94eb1172a.svg",
+               "id":"110619",
+               "name":"Религия",
+               "search_query":"",
+               "tag":"religion",
+               "title":"Религия",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Безопасность",
+               "icon_url":"http://disk.2gis.com/rubricator/safety12d121111b7edddde0ea19e63f6b5d57.svg",
+               "id":"110620",
+               "name":"Безопасность",
+               "search_query":"",
+               "tag":"safety",
+               "title":"Безопасность",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Экстренные службы",
+               "icon_url":"http://disk.2gis.com/rubricator/emergencyd9180787ce66a034271e982a98022af8.svg",
+               "id":"110621",
+               "name":"Экстренные службы",
+               "search_query":"",
+               "tag":"emergency",
+               "title":"Экстренные службы",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Транспорт",
+               "icon_url":"http://disk.2gis.com/rubricator/transport1a09a238df9d3346179345116cae7a1c.svg",
+               "id":"110622",
+               "name":"Транспорт",
+               "search_query":"",
+               "tag":"transport",
+               "title":"Транспорт",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Ещё",
+               "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+               "id":"110623",
+               "name":"Ещё",
+               "search_query":"",
+               "tag":"other",
+               "title":"Остальное",
+               "type":"metarubric"
+            }
+         ],
+         "total":5
+      }
+   }
+}

@@ -1,0 +1,101 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "branch_count":217,
+            "caption":"Супермаркеты",
+            "icon_url":"http://disk.2gis.com/rubricator/groceryb92f2cf09392e989ec78e9026c3f8a1f.svg",
+            "id":"350",
+            "name":"Супермаркеты",
+            "org_count":69,
+            "seo_name":"Супермаркеты, универсамы, мини-маркеты",
+            "tag":"grocery",
+            "title":"Супермаркеты",
+            "type":"rubric"
+         },
+         {
+            "branch_count":24,
+            "caption":"Гипермаркеты",
+            "icon_url":"http://disk.2gis.com/rubricator/shopsdeb2822041d72b7052e3ab817030a7cb.svg",
+            "id":"12127",
+            "name":"Гипермаркеты",
+            "org_count":4,
+            "seo_name":"Гипермаркеты / Мегамаркеты",
+            "tag":"shops",
+            "title":"Гипермаркеты",
+            "type":"rubric"
+         },
+         {
+            "branch_count":764,
+            "caption":"Продуктовые магазины",
+            "icon_url":"http://disk.2gis.com/rubricator/grocery_stores7a30af73a35845fc44124293ff39ce64.svg",
+            "id":"373",
+            "name":"Продовольственные магазины",
+            "org_count":649,
+            "seo_name":"Продуктовые (продовольственные) магазины / Гастрономы",
+            "tag":"grocery_stores",
+            "title":"Продуктовые магазины",
+            "type":"rubric"
+         },
+         {
+            "branch_count":187,
+            "caption":"Кондитерские изделия",
+            "icon_url":"http://disk.2gis.com/rubricator/sweetshop598faecbf78353846539765356f1834b.svg",
+            "id":"363",
+            "name":"Кондитерские изделия",
+            "org_count":126,
+            "tag":"sweetshop",
+            "title":"Кондитерские изделия",
+            "type":"rubric"
+         },
+         {
+            "branch_count":131,
+            "caption":"Рыба, морепродукты",
+            "icon_url":"http://disk.2gis.com/rubricator/fish987f039c0727d7110a47b02564af1e6a.svg",
+            "id":"366",
+            "name":"Рыба / Морепродукты",
+            "org_count":103,
+            "tag":"fish",
+            "title":"Рыба, морепродукты",
+            "type":"rubric"
+         },
+         {
+            "branch_count":179,
+            "caption":"Мясо, полуфабрикаты",
+            "icon_url":"http://disk.2gis.com/rubricator/meat6c7c9dbb5e67e200c94233e6d1e4a681.svg",
+            "id":"562",
+            "name":"Мясо / Полуфабрикаты",
+            "org_count":85,
+            "tag":"meat",
+            "title":"Мясо, полуфабрикаты",
+            "type":"rubric"
+         },
+         {
+            "caption":"Напитки",
+            "icon_url":"http://disk.2gis.com/rubricator/beverages72859f0aadd71e4be6258f8333398739.svg",
+            "id":"110583",
+            "name":"Напитки",
+            "search_query":"",
+            "tag":"beverages",
+            "title":"Напитки",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Ещё",
+            "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+            "id":"110584",
+            "name":"Ещё",
+            "search_query":"",
+            "tag":"other",
+            "title":"Продукты",
+            "type":"metarubric"
+         }
+      ],
+      "total":8
+   }
+}

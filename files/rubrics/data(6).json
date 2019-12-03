@@ -1,0 +1,81 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "branch_count":398,
+               "caption":"Авторемонт",
+               "icon_url":"http://disk.2gis.com/rubricator/car_repairc11263337e0283a18061c69879fa366f.svg",
+               "id":"9041",
+               "name":"Авторемонт и техобслуживание (СТО)",
+               "org_count":370,
+               "seo_name":"Автосервисы (СТО)",
+               "tag":"car_repair",
+               "title":"Авторемонт",
+               "type":"rubric"
+            },
+            {
+               "branch_count":141,
+               "caption":"Автомойки",
+               "icon_url":"http://disk.2gis.com/rubricator/carwash3b5dfcef6ead5d8b7062a403c5d6a7ba.svg",
+               "id":"405",
+               "name":"Автомойки",
+               "org_count":132,
+               "seo_name":"Автомойки, мойка автомобилей",
+               "tag":"carwash",
+               "title":"Автомойки",
+               "type":"rubric"
+            },
+            {
+               "branch_count":197,
+               "caption":"Шиномонтаж",
+               "icon_url":"http://disk.2gis.com/rubricator/tire_workshops542c80f7895a2012c98a79daacb4b1dd.svg",
+               "id":"7689",
+               "name":"Шиномонтаж",
+               "org_count":170,
+               "tag":"tire_workshops",
+               "title":"Шиномонтаж",
+               "type":"rubric"
+            },
+            {
+               "branch_count":35,
+               "caption":"Авторазбор",
+               "icon_url":"http://disk.2gis.com/rubricator/chopshop13b373c0ded281a77f83a5d414601525.svg",
+               "id":"406",
+               "name":"Услуги авторазбора",
+               "org_count":32,
+               "tag":"chopshop",
+               "title":"Авторазбор",
+               "type":"rubric"
+            },
+            {
+               "branch_count":90,
+               "caption":"Заправки",
+               "icon_url":"http://disk.2gis.com/rubricator/gasoline_station8137e149f002fab166d947dcc9bdeacd.svg",
+               "id":"18547",
+               "name":"Заправочные станции",
+               "org_count":14,
+               "tag":"gasoline_station",
+               "title":"Заправки",
+               "type":"rubric"
+            },
+            {
+               "caption":"Ещё",
+               "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+               "id":"111548",
+               "name":"Ещё",
+               "search_query":"",
+               "tag":"other",
+               "title":"Автосервис",
+               "type":"metarubric"
+            }
+         ],
+         "total":6
+      }
+   }
+}

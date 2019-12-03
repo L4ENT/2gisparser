@@ -1,0 +1,90 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "caption":"Культура",
+               "icon_url":"http://disk.2gis.com/rubricator/culturee394fa8c050e480fffc10b6bf27d96af.svg",
+               "id":"110546",
+               "name":"Культура",
+               "search_query":"Культура",
+               "tag":"culture",
+               "title":"Культура",
+               "type":"metarubric"
+            },
+            {
+               "branch_count":129,
+               "caption":"Бани и сауны",
+               "icon_url":"http://disk.2gis.com/rubricator/sauna3c41dac201a326ea24e5f2862d305ceb.svg",
+               "id":"946",
+               "name":"Бани / Сауны",
+               "org_count":119,
+               "seo_name":"Бани / Сауны / Парные / Хаммамы",
+               "tag":"sauna",
+               "title":"Бани и сауны",
+               "type":"rubric"
+            },
+            {
+               "branch_count":36,
+               "caption":"Паровые коктейли",
+               "icon_url":"http://disk.2gis.com/rubricator/steam_cocktails074e08ce6f08b460e39722da6f9ec08d.svg",
+               "id":"110357",
+               "name":"Центры паровых коктейлей",
+               "org_count":32,
+               "tag":"steam_cocktails",
+               "title":"Паровые коктейли",
+               "type":"rubric"
+            },
+            {
+               "branch_count":13,
+               "caption":"Кинотеатры",
+               "icon_url":"http://disk.2gis.com/rubricator/cinema186c1383c66d9c67d42d18b0510e08db.svg",
+               "id":"192",
+               "name":"Кинотеатры",
+               "org_count":13,
+               "tag":"cinema",
+               "title":"Кинотеатры",
+               "type":"rubric"
+            },
+            {
+               "branch_count":26,
+               "caption":"Караоке",
+               "icon_url":"http://disk.2gis.com/rubricator/karaokefdf0006c31d5ce962e2063e0614c7d5d.svg",
+               "id":"21387",
+               "name":"Караоке-залы",
+               "org_count":26,
+               "seo_name":"Караоке-клубы / бары",
+               "tag":"karaoke",
+               "title":"Караоке",
+               "type":"rubric"
+            },
+            {
+               "caption":"Организ. праздников",
+               "icon_url":"http://disk.2gis.com/rubricator/celebrationsab049f43989c4a4dea52c5f7efd36624.svg",
+               "id":"110547",
+               "name":"Организ. праздников",
+               "search_query":"Организация праздников",
+               "tag":"celebrations",
+               "title":"Организация праздников",
+               "type":"metarubric"
+            },
+            {
+               "caption":"Ещё",
+               "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+               "id":"110548",
+               "name":"Ещё",
+               "search_query":"",
+               "tag":"other",
+               "title":"Развлечения",
+               "type":"metarubric"
+            }
+         ],
+         "total":7
+      }
+   }
+}

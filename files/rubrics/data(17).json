@@ -1,0 +1,82 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "caption":"Бытовые",
+            "icon_url":"http://disk.2gis.com/rubricator/house_hold18750189ba339f2e7f7a5b459339cbdd.svg",
+            "id":"110566",
+            "name":"Бытовые",
+            "search_query":"",
+            "tag":"house_hold",
+            "title":"Бытовые услуги",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Перевозки",
+            "icon_url":"http://disk.2gis.com/rubricator/truckinga41371cda3af6240fbf23c020a3c11fa.svg",
+            "id":"110567",
+            "name":"Перевозки",
+            "search_query":"",
+            "tag":"trucking",
+            "title":"Перевозки",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Финансы",
+            "icon_url":"http://disk.2gis.com/rubricator/financesb5d9f16b84e089117663eae54e471c07.svg",
+            "id":"110568",
+            "name":"Финансы",
+            "search_query":"",
+            "tag":"finances",
+            "title":"Финансовые услуги",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Недвижимость",
+            "icon_url":"http://disk.2gis.com/rubricator/estatea8e2695373cc50edbe2f29882cbf7d2e.svg",
+            "id":"110569",
+            "name":"Недвижимость",
+            "search_query":"",
+            "tag":"estate",
+            "title":"Недвижимость",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Юридические услуги",
+            "icon_url":"http://disk.2gis.com/rubricator/lawyerbac18ba9a90a17aeb0675210ae3f4320.svg",
+            "id":"110570",
+            "name":"Юридические услуги",
+            "search_query":"",
+            "tag":"lawyer",
+            "title":"Юридические услуги",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Жилищно-коммунальные",
+            "icon_url":"http://disk.2gis.com/rubricator/housing48069821f8e6b97cc0515e93e91a17fd.svg",
+            "id":"110572",
+            "name":"Жилищно-коммунальные",
+            "search_query":"",
+            "tag":"housing",
+            "title":"Жилищно-коммунальные услуги",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Ещё",
+            "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+            "id":"110573",
+            "name":"Ещё",
+            "search_query":"",
+            "tag":"other",
+            "title":"Услуги",
+            "type":"metarubric"
+         }
+      ],
+      "total":7
+   }
+}

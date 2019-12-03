@@ -1,0 +1,81 @@
+{
+   "JSON":{
+      "meta":{
+         "api_version":"2.0.360294",
+         "code":200,
+         "issue_date":"20191128"
+      },
+      "result":{
+         "items":[
+            {
+               "branch_count":641,
+               "caption":"Парикмахерские",
+               "icon_url":"http://disk.2gis.com/rubricator/hairdressersfbbf55482a7b22b2e32733525dfd5fb8.svg",
+               "id":"305",
+               "name":"Парикмахерские",
+               "org_count":595,
+               "tag":"hairdressers",
+               "title":"Парикмахерские",
+               "type":"rubric"
+            },
+            {
+               "branch_count":287,
+               "caption":"Косметолог",
+               "icon_url":"http://disk.2gis.com/rubricator/beauty_salonsecb7175db0291b6289369735d23e946c.svg",
+               "id":"652",
+               "name":"Услуги косметолога",
+               "org_count":269,
+               "tag":"beauty_salons",
+               "title":"Косметолог",
+               "type":"rubric"
+            },
+            {
+               "branch_count":559,
+               "caption":"Маникюр и педикюр",
+               "icon_url":"http://disk.2gis.com/rubricator/manicure59949b46340021434d7c68817a185198.svg",
+               "id":"5603",
+               "name":"Ногтевые студии",
+               "org_count":519,
+               "seo_name":"Студии ногтевого сервиса",
+               "tag":"manicure",
+               "title":"Маникюр и педикюр",
+               "type":"rubric"
+            },
+            {
+               "branch_count":356,
+               "caption":"Косметика",
+               "icon_url":"http://disk.2gis.com/rubricator/cosmetics2da4279ba574c727c997fe09752f4b20.svg",
+               "id":"382",
+               "name":"Косметика / Парфюмерия",
+               "org_count":224,
+               "tag":"cosmetics",
+               "title":"Косметика",
+               "type":"rubric"
+            },
+            {
+               "branch_count":116,
+               "caption":"Солярии",
+               "icon_url":"http://disk.2gis.com/rubricator/solarium9a5764feb601bb6cb6241c10bbefb670.svg",
+               "id":"651",
+               "name":"Студии загара",
+               "org_count":109,
+               "seo_name":"Солярии (студии загара)",
+               "tag":"solarium",
+               "title":"Солярии",
+               "type":"rubric"
+            },
+            {
+               "caption":"Ещё",
+               "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+               "id":"110544",
+               "name":"Ещё",
+               "search_query":"",
+               "tag":"other",
+               "title":"Красота",
+               "type":"metarubric"
+            }
+         ],
+         "total":6
+      }
+   }
+}

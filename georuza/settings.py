@@ -12,7 +12,7 @@ FILES_DIR = Path(os.getenv(
     os.path.join(os.path.dirname(os.path.dirname(__file__)), 'files')
 ))
 
-_2GIS_KEY = os.getenv('2GIS_KEY', '1111russpc1826')
+_2GIS_KEY = os.getenv('2GIS_KEY', 'russpc1826')
 _2GIS_API2_URL = os.getenv('2GIS_API2_URL', 'http://catalog.api.2gis.ru/2.0/')
 _2GIS_API3_URL = os.getenv('2GIS_API2_URL', 'http://catalog.api.2gis.ru/3.0/')
 _2GIS_API_URLS = {

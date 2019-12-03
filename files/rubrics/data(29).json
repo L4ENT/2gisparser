@@ -1,0 +1,52 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "caption":"Правоохранительные",
+            "icon_url":"http://disk.2gis.com/rubricator/police334ce1356a5b9c5c8ec0586bd3fe231a.svg",
+            "id":"110594",
+            "name":"Правоохранительные",
+            "search_query":"",
+            "tag":"police",
+            "title":"Правоохранительные органы",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Социальные",
+            "icon_url":"http://disk.2gis.com/rubricator/socials695d7c06887c325494db78788893a684.svg",
+            "id":"110595",
+            "name":"Социальные",
+            "search_query":"",
+            "tag":"socials",
+            "title":"Социальные услуги",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Гос.управление",
+            "icon_url":"http://disk.2gis.com/rubricator/government45dcc425ac778318b7d502a1e9907f79.svg",
+            "id":"110596",
+            "name":"Гос.управление",
+            "search_query":"",
+            "tag":"government",
+            "title":"Государственное управление",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Ещё",
+            "icon_url":"http://disk.2gis.com/rubricator/othere66fe8939a035570026afdb3e4a9fffb.svg",
+            "id":"111553",
+            "name":"Ещё",
+            "search_query":"",
+            "tag":"other",
+            "title":"Власть",
+            "type":"metarubric"
+         }
+      ],
+      "total":4
+   }
+}

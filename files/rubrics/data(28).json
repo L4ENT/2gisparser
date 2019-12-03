@@ -1,0 +1,73 @@
+{
+   "meta":{
+      "api_version":"2.0.360294",
+      "code":200,
+      "issue_date":"20191128"
+   },
+   "result":{
+      "items":[
+         {
+            "caption":"Среднее образование",
+            "icon_url":"http://disk.2gis.com/rubricator/school9951193cb9699113e6375054c9584e0b.svg",
+            "id":"110644",
+            "name":"Среднее образование",
+            "search_query":"",
+            "tag":"school",
+            "title":"Среднее образование",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Детские сады",
+            "icon_url":"http://disk.2gis.com/rubricator/child_garden290dd6a2279a5738f2b3fd00c537274f.svg",
+            "id":"110643",
+            "name":"Детские сады",
+            "search_query":"",
+            "tag":"child_garden",
+            "title":"Детские сады",
+            "type":"metarubric"
+         },
+         {
+            "branch_count":146,
+            "caption":"Развитие детей",
+            "icon_url":"http://disk.2gis.com/rubricator/development36f76031a5c68acc4ca43bd77a09c70a.svg",
+            "id":"5683",
+            "name":"Центры раннего развития детей",
+            "org_count":114,
+            "tag":"development",
+            "title":"Развитие детей",
+            "type":"rubric"
+         },
+         {
+            "caption":"Доп. образование",
+            "icon_url":"http://disk.2gis.com/rubricator/dop_obrazovan11ce9b8bd7c4e882393b9c6b7b43f8f0.svg",
+            "id":"110589",
+            "name":"Доп. образование",
+            "search_query":"Дополнительное образование",
+            "tag":"dop_obrazovan",
+            "title":"Дополнительное образование",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Творчество и досуг",
+            "icon_url":"http://disk.2gis.com/rubricator/creativity49cebfc7d424d0f34dc9aad28e50c7ac.svg",
+            "id":"110590",
+            "name":"Творчество и досуг",
+            "search_query":"",
+            "tag":"creativity",
+            "title":"Творчество и досуг",
+            "type":"metarubric"
+         },
+         {
+            "caption":"Проф. образование",
+            "icon_url":"http://disk.2gis.com/rubricator/educationa3f4ddcc8b0dd3f81cb21469a69adc86.svg",
+            "id":"110591",
+            "name":"Проф. образование",
+            "search_query":"Профессиональное образование",
+            "tag":"education",
+            "title":"Профессиональное образование",
+            "type":"metarubric"
+         }
+      ],
+      "total":6
+   }
+}
