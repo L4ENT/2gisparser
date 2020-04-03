@@ -40,7 +40,7 @@ class DataFetcher:
         self._pages_to_visit.update(paths_on_page - set(self._visited_pages))
 
     def parse_page(self, url, ribric):
-        print(f'Start parse {ribric} {url}')
+        print(f'Start parse {ribric["name"]} {url}')
         self._driver.get(url)
         elements = self._driver.find_elements_by_css_selector(
             '._awwm2v ._1h8gq0d'
@@ -64,6 +64,30 @@ class DataFetcher:
                 # print(self.parse_style_attribute(style))
                 data['image_url'] = self.parse_style_attribute(style)
 
+            with contextlib.suppress(NoSuchElementException):
+                category_el = el.find_element_by_css_selector('._oqoid')
+                # print(self.parse_style_attribute(style))
+                data['category'] = category_el.text
+
+            with contextlib.suppress(NoSuchElementException):
+                data['rating'] = None
+                rating_cont_el = el.find_element_by_css_selector('._e296pg')
+                pos_container = rating_cont_el.find_element_by_css_selector(
+                    '._tjufnr'
+                )
+                data['rating'] = len(
+                    pos_container.find_elements_by_css_selector(
+                        'span'
+                    )
+                )
+
+            with contextlib.suppress(NoSuchElementException):
+                reviews_count_el = el.find_element_by_css_selector('._uzv9b5')
+                try:
+                    data['reviews_count'] = int(reviews_count_el.text)
+                except Exception:
+                    pass
+
             try:
                 not_working_el = el.find_element_by_css_selector('._bdr0ip')
                 not_work_text = not_working_el.text
@@ -79,10 +103,9 @@ class DataFetcher:
 
         self._visited_pages.append(url)
 
-
-    def fetch(self, ribric='Поесть'):
+    def fetch(self, ribric):
         self._pages_to_visit.add(f'https://2gis.ru/khabarovsk/search/'
-                                 f'{quote_plus(ribric)}')
+                                 f'{quote_plus(ribric["name"])}')
         while self._pages_to_visit:
             url = self._pages_to_visit.pop()
             self.parse_page(url, ribric)
@@ -94,15 +117,17 @@ class DataFetcher:
         for rubric in rubrics:
             rubric_name = rubric['name']
             print(f'Start parse rubric {rubric_name}')
-            self.fetch(rubric_name)
+            self.fetch(rubric)
             print(f'Rubric {rubric_name} done')
             self._db.organizations.insert_one({
                 'name': rubric_name,
                 'loaded': True
             })
 
+
 def main():
     fetcher = DataFetcher(get_db())
     fetcher.fetch_all_rubrics()
+
 
 main()
