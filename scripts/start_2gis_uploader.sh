@@ -1,1 +1,1 @@
-python ${PROJECT_ROOT}/georuza/main.py
+python ${PROJECT_ROOT}/georuza/twogis.py

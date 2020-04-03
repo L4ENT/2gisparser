@@ -1,4 +1,4 @@
-FROM python:3.7.3-stretch
+FROM joyzoursky/python-chromedriver:3.7-alpine3.8-selenium
 
 ENV PROJECT_ROOT=/usr/src/application \
     USR_LOCAL_BIN=/usr/local/bin

@@ -10,6 +10,7 @@ pymongo = "*"
 requests = "*"
 coloredlogs = "*"
 redis = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.7"
