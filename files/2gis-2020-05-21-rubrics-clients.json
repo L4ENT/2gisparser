@@ -1,0 +1,708 @@
+[
+   {
+      "branch_count":641,
+      "caption":"Парикмахерские",
+      "icon_url":"http://disk.2gis.com/rubricator/hairdressersfbbf55482a7b22b2e32733525dfd5fb8.svg",
+      "id":"305",
+      "name":"Парикмахерские",
+      "org_count":595,
+      "tag":"hairdressers",
+      "title":"Парикмахерские",
+      "type":"rubric"
+   },
+   {
+      "branch_count":28,
+      "caption":"Барбершопы",
+      "id":"110998",
+      "name":"Барбершопы",
+      "org_count":24,
+      "title":"Барбершопы",
+      "type":"rubric"
+   },
+   {
+      "branch_count":99,
+      "caption":"Рестораны",
+      "icon_url":"http://disk.2gis.com/rubricator/restaurantac12d4238799c182714ec89562877877.svg",
+      "id":"164",
+      "name":"Рестораны",
+      "org_count":93,
+      "tag":"restaurant",
+      "title":"Рестораны",
+      "type":"rubric"
+   },
+   {
+      "branch_count":26,
+      "caption":"Суши-бары",
+      "id":"15791",
+      "name":"Суши-бары / рестораны",
+      "org_count":22,
+      "title":"Суши-бары",
+      "type":"rubric"
+   },
+   {
+      "branch_count":141,
+      "caption":"Автомойки",
+      "icon_url":"http://disk.2gis.com/rubricator/carwash3b5dfcef6ead5d8b7062a403c5d6a7ba.svg",
+      "id":"405",
+      "name":"Автомойки",
+      "org_count":132,
+      "seo_name":"Автомойки, мойка автомобилей",
+      "tag":"carwash",
+      "title":"Автомойки",
+      "type":"rubric"
+   },
+   {
+      "branch_count":26,
+      "caption":"Суши-бары",
+      "id":"15791",
+      "name":"Суши-бары / рестораны",
+      "org_count":22,
+      "title":"Суши-бары",
+      "type":"rubric"
+   },
+   {
+      "branch_count":80,
+      "caption":"Бары",
+      "icon_url":"http://disk.2gis.com/rubricator/bar20bd6068bc164b6e75eb28eb560020d8.svg",
+      "id":"159",
+      "name":"Бары",
+      "org_count":75,
+      "seo_name":"Бары / Пабы",
+      "tag":"bar",
+      "title":"Бары",
+      "type":"rubric"
+   },
+   {
+      "branch_count":209,
+      "caption":"Доставка",
+      "icon_url":"http://disk.2gis.com/rubricator/food_delivery92c3b7b497f1d39d53f595e048a2d470.svg",
+      "id":"1203",
+      "name":"Доставка готовых блюд",
+      "org_count":172,
+      "seo_name":"Доставка (заказ) еды",
+      "tag":"food_delivery",
+      "title":"Доставка",
+      "type":"rubric"
+   },
+   {
+      "branch_count":110,
+      "caption":"Кофейни",
+      "id":"162",
+      "name":"Кафе-кондитерские / Кофейни",
+      "org_count":58,
+      "title":"Кофейни",
+      "type":"rubric"
+   },
+   {
+      "branch_count":40,
+      "caption":"Пиццерии",
+      "id":"51459",
+      "name":"Пиццерии",
+      "org_count":26,
+      "seo_name":"Пицца (пиццерии)",
+      "title":"Пиццерии",
+      "type":"rubric"
+   },
+   {
+      "branch_count":398,
+      "caption":"Авторемонт",
+      "icon_url":"http://disk.2gis.com/rubricator/car_repairc11263337e0283a18061c69879fa366f.svg",
+      "id":"9041",
+      "name":"Авторемонт и техобслуживание (СТО)",
+      "org_count":370,
+      "seo_name":"Автосервисы (СТО)",
+      "tag":"car_repair",
+      "title":"Авторемонт",
+      "type":"rubric"
+   },
+   {
+      "branch_count":160,
+      "caption":"Кузовной ремонт",
+      "id":"7693",
+      "name":"Кузовной ремонт",
+      "org_count":154,
+      "seo_name":"Кузовной ремонт, покраска автомобилей",
+      "title":"Кузовной ремонт",
+      "type":"rubric"
+   },
+   {
+      "branch_count":129,
+      "caption":"Автосигнализации",
+      "id":"408",
+      "name":"Автосигнализации",
+      "org_count":124,
+      "seo_name":"Автосигнализации (автомобильные сигнализации) — продажа, установка",
+      "title":"Автосигнализации",
+      "type":"rubric"
+   },
+   {
+      "branch_count":110,
+      "caption":"Ремонт грузовиков",
+      "id":"20989",
+      "name":"Ремонт грузовых автомобилей",
+      "org_count":106,
+      "seo_name":"Ремонт грузовых автомобилей (грузовой автосервис)",
+      "title":"Ремонт грузовиков",
+      "type":"rubric"
+   },
+   {
+      "branch_count":34,
+      "caption":"Тех.осмотр",
+      "id":"4532",
+      "name":"Технический осмотр транспорта",
+      "org_count":30,
+      "seo_name":"Техосмотр (пункты технического осмотра)",
+      "title":"Тех.осмотр",
+      "type":"rubric"
+   },
+   {
+      "branch_count":233,
+      "caption":"Ремонт автоэлектрики",
+      "id":"7692",
+      "name":"Ремонт автоэлектрики",
+      "org_count":216,
+      "title":"Ремонт автоэлектрики",
+      "type":"rubric"
+   },
+   {
+      "branch_count":370,
+      "caption":"Ремонт ходовой части",
+      "id":"7691",
+      "name":"Ремонт ходовой части автомобиля",
+      "org_count":343,
+      "title":"Ремонт ходовой части",
+      "type":"rubric"
+   },
+   {
+      "branch_count":44,
+      "caption":"Эвакуация автомобилей",
+      "id":"9867",
+      "name":"Эвакуация автомобилей",
+      "org_count":42,
+      "seo_name":"Эвакуаторы, эвакуация автомобилей",
+      "title":"Эвакуация автомобилей",
+      "type":"rubric"
+   },
+   {
+      "branch_count":40,
+      "caption":"Автоэкспертиза",
+      "id":"342",
+      "name":"Автоэкспертиза",
+      "org_count":40,
+      "seo_name":"Автоэкспертиза, оценка автомобиля",
+      "title":"Автоэкспертиза",
+      "type":"rubric"
+   },
+   {
+      "branch_count":37,
+      "caption":"Тонирование автостёкол",
+      "id":"413",
+      "name":"Тонирование автостёкол",
+      "org_count":35,
+      "seo_name":"Тонировка (тонирование) стекол автомобилей",
+      "title":"Тонирование автостёкол",
+      "type":"rubric"
+   },
+   {
+      "branch_count":97,
+      "caption":"Развал-схождение",
+      "id":"7690",
+      "name":"Развал / Схождение",
+      "org_count":89,
+      "seo_name":"Развал / Схождение (сход-развал)",
+      "title":"Развал-схождение",
+      "type":"rubric"
+   },
+   {
+      "branch_count":42,
+      "caption":"Ремонт стёкол",
+      "id":"10792",
+      "name":"Установка / ремонт автостёкол",
+      "org_count":37,
+      "seo_name":"Установка, ремонт, замена автостекол",
+      "title":"Ремонт стёкол",
+      "type":"rubric"
+   },
+   {
+      "branch_count":4,
+      "caption":"Газовое оборудование для автотранспорта",
+      "id":"437",
+      "name":"Газовое оборудование для автотранспорта",
+      "org_count":4,
+      "seo_name":"Автомобильное газовое оборудование (ГБО) — продажа, установка, ремонт",
+      "title":"Газовое оборудование для автотранспорта",
+      "type":"rubric"
+   },
+   {
+      "branch_count":71,
+      "caption":"Автозвук",
+      "id":"404",
+      "name":"Автозвук",
+      "org_count":67,
+      "title":"Автозвук",
+      "type":"rubric"
+   },
+   {
+      "branch_count":153,
+      "caption":"Аппаратная замена масла",
+      "id":"7900",
+      "name":"Аппаратная замена масла",
+      "org_count":132,
+      "title":"Аппаратная замена масла",
+      "type":"rubric"
+   },
+   {
+      "branch_count":91,
+      "caption":"Тюнинг",
+      "id":"414",
+      "name":"Тюнинг",
+      "org_count":89,
+      "seo_name":"Тюнинг (автотюнинг)",
+      "title":"Тюнинг",
+      "type":"rubric"
+   },
+   {
+      "branch_count":119,
+      "caption":"Стоянки",
+      "id":"409",
+      "name":"Автостоянки",
+      "org_count":115,
+      "seo_name":"Парковки, автостоянки",
+      "title":"Стоянки",
+      "type":"rubric"
+   },
+   {
+      "branch_count":91,
+      "caption":"Сервис климатических систем",
+      "id":"7697",
+      "name":"Ремонт / обслуживание климатических систем автомобиля",
+      "org_count":81,
+      "title":"Сервис климатических систем",
+      "type":"rubric"
+   },
+   {
+      "branch_count":250,
+      "caption":"Ремонт бензиновых двигателей",
+      "id":"7695",
+      "name":"Ремонт бензиновых двигателей",
+      "org_count":240,
+      "title":"Ремонт бензиновых двигателей",
+      "type":"rubric"
+   },
+   {
+      "branch_count":117,
+      "caption":"Компьютерная диагностика автомобилей",
+      "id":"110362",
+      "name":"Компьютерная диагностика автомобилей",
+      "org_count":109,
+      "title":"Компьютерная диагностика автомобилей",
+      "type":"rubric"
+   },
+   {
+      "branch_count":15,
+      "caption":"Аварийные комиссары",
+      "id":"16182",
+      "name":"Службы аварийных комиссаров",
+      "org_count":15,
+      "seo_name":"Аварийные комиссары (аваркомы)",
+      "title":"Аварийные комиссары",
+      "type":"rubric"
+   },
+   {
+      "branch_count":64,
+      "caption":"Ремонт АКПП",
+      "id":"412",
+      "name":"Ремонт АКПП",
+      "org_count":61,
+      "title":"Ремонт АКПП",
+      "type":"rubric"
+   },
+   {
+      "branch_count":197,
+      "caption":"Ремонт дизельных двигателей",
+      "id":"7694",
+      "name":"Ремонт дизельных двигателей",
+      "org_count":196,
+      "seo_name":"Диагностика, ремонт дизельных двигателей",
+      "title":"Ремонт дизельных двигателей",
+      "type":"rubric"
+   },
+   {
+      "branch_count":106,
+      "caption":"Ремонт спецтехники",
+      "id":"7757",
+      "name":"Ремонт спецтехники",
+      "org_count":102,
+      "title":"Ремонт спецтехники",
+      "type":"rubric"
+   },
+   {
+      "branch_count":32,
+      "caption":"Ремонт дизельной топливной системы",
+      "id":"16648",
+      "name":"Ремонт топливной аппаратуры дизельных двигателей",
+      "org_count":31,
+      "seo_name":"Ремонт топливной аппаратуры дизельных двигателей (ТНВД)",
+      "title":"Ремонт дизельной топливной системы",
+      "type":"rubric"
+   },
+   {
+      "branch_count":20,
+      "caption":"Выездная помощь на дороге",
+      "id":"110316",
+      "name":"Выездная техническая помощь на дороге",
+      "org_count":19,
+      "title":"Выездная помощь на дороге",
+      "type":"rubric"
+   },
+   {
+      "branch_count":70,
+      "caption":"Ремонт электронных систем",
+      "id":"10412",
+      "name":"Ремонт электронных систем управления автомобиля",
+      "org_count":63,
+      "seo_name":"Ремонт электронных систем управления автомобилем, автосигнализаций",
+      "title":"Ремонт электронных систем",
+      "type":"rubric"
+   },
+   {
+      "branch_count":19,
+      "caption":"Пошив авточехлов, ковров",
+      "id":"70164",
+      "name":"Пошив авточехлов / автоковров",
+      "org_count":19,
+      "title":"Пошив авточехлов, ковров",
+      "type":"rubric"
+   },
+   {
+      "branch_count":64,
+      "caption":"Ремонт выхлопных систем",
+      "id":"52408",
+      "name":"Ремонт выхлопных систем",
+      "org_count":59,
+      "seo_name":"Ремонт глушителя и выхлопных систем",
+      "title":"Ремонт выхлопных систем",
+      "type":"rubric"
+   },
+   {
+      "branch_count":21,
+      "caption":"Сервис мототехники",
+      "id":"18630",
+      "name":"Ремонт / тюнинг мототехники",
+      "org_count":20,
+      "title":"Сервис мототехники",
+      "type":"rubric"
+   },
+   {
+      "branch_count":48,
+      "caption":"Детейлинг",
+      "id":"110301",
+      "name":"Детейлинг",
+      "org_count":44,
+      "title":"Детейлинг",
+      "type":"rubric"
+   },
+   {
+      "branch_count":26,
+      "caption":"Отогрев автомобилей",
+      "id":"56428",
+      "name":"Услуги по отогреву автомобиля",
+      "org_count":26,
+      "seo_name":"Отогрев автомобиля",
+      "title":"Отогрев автомобилей",
+      "type":"rubric"
+   },
+   {
+      "branch_count":33,
+      "caption":"Ремонт карбюраторов, инжекторов",
+      "id":"7699",
+      "name":"Ремонт карбюраторов / инжекторов",
+      "org_count":30,
+      "seo_name":"Ремонт, регулировка, промывка карбюраторов и инжекторов",
+      "title":"Ремонт карбюраторов, инжекторов",
+      "type":"rubric"
+   },
+   {
+      "branch_count":2,
+      "caption":"Хранение шин",
+      "id":"22829",
+      "name":"Хранение шин",
+      "org_count":2,
+      "seo_name":"Сезонное хранение шин (шинные отели)",
+      "title":"Хранение шин",
+      "type":"rubric"
+   },
+   {
+      "branch_count":60,
+      "caption":"Ремонт МКПП",
+      "id":"110363",
+      "name":"Ремонт МКПП",
+      "org_count":57,
+      "title":"Ремонт МКПП",
+      "type":"rubric"
+   },
+   {
+      "branch_count":9,
+      "caption":"Антикоррозийная обработка автомобилей",
+      "id":"410",
+      "name":"Антикоррозийная обработка автомобилей",
+      "org_count":9,
+      "title":"Антикоррозийная обработка автомобилей",
+      "type":"rubric"
+   },
+   {
+      "branch_count":14,
+      "caption":"Ремонт оптики",
+      "id":"110365",
+      "name":"Установка / ремонт автомобильной оптики",
+      "org_count":13,
+      "title":"Ремонт оптики",
+      "type":"rubric"
+   },
+   {
+      "branch_count":15,
+      "caption":"Переоборудование",
+      "id":"110366",
+      "name":"Переоборудование автомобилей",
+      "org_count":14,
+      "title":"Переоборудование",
+      "type":"rubric"
+   },
+   {
+      "branch_count":5,
+      "caption":"Штрафстоянки",
+      "id":"18305",
+      "name":"Штрафстоянки",
+      "org_count":5,
+      "seo_name":"Штрафстоянки (штрафные стоянки)",
+      "title":"Штрафстоянки",
+      "type":"rubric"
+   },
+   {
+      "branch_count":12,
+      "caption":"Ремонт автобусов",
+      "id":"110364",
+      "name":"Ремонт автобусов",
+      "org_count":10,
+      "title":"Ремонт автобусов",
+      "type":"rubric"
+   },
+   {
+      "branch_count":6,
+      "caption":"Аэрография",
+      "id":"24814",
+      "name":"Аэрография на транспорте",
+      "org_count":6,
+      "seo_name":"Аэрография на авто, транспорте",
+      "title":"Аэрография",
+      "type":"rubric"
+   },
+   {
+      "branch_count":2,
+      "caption":"Зарядка электротранспорта",
+      "id":"110320",
+      "name":"Станции для зарядки электротранспорта",
+      "org_count":1,
+      "title":"Зарядка электротранспорта",
+      "type":"rubric"
+   },
+   {
+      "branch_count":3,
+      "caption":"Автосервис самообслуживания",
+      "id":"110822",
+      "name":"Автосервис самообслуживания",
+      "org_count":3,
+      "title":"Автосервис самообслуживания",
+      "type":"rubric"
+   },
+   {
+      "branch_count":6,
+      "caption":"Ремонт гибридных автомобилей",
+      "id":"111509",
+      "name":"Ремонт гибридных автомобилей",
+      "org_count":6,
+      "title":"Ремонт гибридных автомобилей",
+      "type":"rubric"
+   },
+   {
+      "branch_count":641,
+      "caption":"Парикмахерские",
+      "icon_url":"http://disk.2gis.com/rubricator/hairdressersfbbf55482a7b22b2e32733525dfd5fb8.svg",
+      "id":"305",
+      "name":"Парикмахерские",
+      "org_count":595,
+      "tag":"hairdressers",
+      "title":"Парикмахерские",
+      "type":"rubric"
+   },
+   {
+      "branch_count":287,
+      "caption":"Косметолог",
+      "icon_url":"http://disk.2gis.com/rubricator/beauty_salonsecb7175db0291b6289369735d23e946c.svg",
+      "id":"652",
+      "name":"Услуги косметолога",
+      "org_count":269,
+      "tag":"beauty_salons",
+      "title":"Косметолог",
+      "type":"rubric"
+   },
+   {
+      "branch_count":559,
+      "caption":"Маникюр и педикюр",
+      "icon_url":"http://disk.2gis.com/rubricator/manicure59949b46340021434d7c68817a185198.svg",
+      "id":"5603",
+      "name":"Ногтевые студии",
+      "org_count":519,
+      "seo_name":"Студии ногтевого сервиса",
+      "tag":"manicure",
+      "title":"Маникюр и педикюр",
+      "type":"rubric"
+   },
+   {
+      "branch_count":356,
+      "caption":"Косметика",
+      "icon_url":"http://disk.2gis.com/rubricator/cosmetics2da4279ba574c727c997fe09752f4b20.svg",
+      "id":"382",
+      "name":"Косметика / Парфюмерия",
+      "org_count":224,
+      "tag":"cosmetics",
+      "title":"Косметика",
+      "type":"rubric"
+   },
+   {
+      "branch_count":116,
+      "caption":"Солярии",
+      "icon_url":"http://disk.2gis.com/rubricator/solarium9a5764feb601bb6cb6241c10bbefb670.svg",
+      "id":"651",
+      "name":"Студии загара",
+      "org_count":109,
+      "seo_name":"Солярии (студии загара)",
+      "tag":"solarium",
+      "title":"Солярии",
+      "type":"rubric"
+   },
+   {
+      "branch_count":268,
+      "caption":"Ресницы и брови",
+      "id":"110355",
+      "name":"Услуги по уходу за ресницами / бровями",
+      "org_count":251,
+      "title":"Ресницы и брови",
+      "type":"rubric"
+   },
+   {
+      "branch_count":98,
+      "caption":"Визажист",
+      "id":"58858",
+      "name":"Услуги визажиста",
+      "org_count":87,
+      "seo_name":"Визажисты",
+      "title":"Визажист",
+      "type":"rubric"
+   },
+   {
+      "branch_count":4,
+      "caption":"Имидж-консультант",
+      "id":"20165",
+      "name":"Услуги имидж-консультанта",
+      "org_count":4,
+      "seo_name":"Стилисты, имиджмейкеры, шопперы",
+      "title":"Имидж-консультант",
+      "type":"rubric"
+   },
+   {
+      "branch_count":169,
+      "caption":"Косметика для салонов красоты",
+      "id":"13102",
+      "name":"Косметика / расходные материалы для салонов красоты",
+      "org_count":127,
+      "seo_name":"Профессиональная косметика / расходные материалы для салонов красоты",
+      "title":"Косметика для салонов красоты",
+      "type":"rubric"
+   },
+   {
+      "branch_count":194,
+      "caption":"Массаж",
+      "id":"13726",
+      "name":"Услуги массажиста",
+      "org_count":177,
+      "seo_name":"Массажные салоны, услуги массажиста",
+      "title":"Массаж",
+      "type":"rubric"
+   },
+   {
+      "branch_count":50,
+      "caption":"SPA",
+      "id":"56759",
+      "name":"SPA-процедуры",
+      "org_count":46,
+      "seo_name":"СПА-салоны (центры)",
+      "title":"SPA",
+      "type":"rubric"
+   },
+   {
+      "branch_count":13,
+      "caption":"Тату-салоны",
+      "id":"14942",
+      "name":"Тату-салоны",
+      "org_count":13,
+      "seo_name":"Тату-салоны (изготовление татуировок)",
+      "title":"Тату-салоны",
+      "type":"rubric"
+   },
+   {
+      "branch_count":6,
+      "caption":"Соляные комнаты",
+      "id":"69989",
+      "name":"Соляные комнаты",
+      "org_count":6,
+      "title":"Соляные комнаты",
+      "type":"rubric"
+   },
+   {
+      "branch_count":9,
+      "caption":"Тонизирующие салоны",
+      "id":"13597",
+      "name":"Тонизирующие салоны",
+      "org_count":9,
+      "title":"Тонизирующие салоны",
+      "type":"rubric"
+   },
+   {
+      "branch_count":7,
+      "caption":"Накладные волосы",
+      "id":"51009",
+      "name":"Парики / Накладные волосы",
+      "org_count":6,
+      "title":"Накладные волосы",
+      "type":"rubric"
+   },
+   {
+      "branch_count":10,
+      "caption":"Косметика ручной работы",
+      "id":"53986",
+      "name":"Косметика ручной работы",
+      "org_count":6,
+      "title":"Косметика ручной работы",
+      "type":"rubric"
+   },
+   {
+      "branch_count":3,
+      "caption":"Роспись по телу",
+      "id":"67142",
+      "name":"Услуги росписи по телу",
+      "org_count":3,
+      "seo_name":"Роспись по телу, био-тату",
+      "title":"Роспись по телу",
+      "type":"rubric"
+   },
+   {
+      "branch_count":7,
+      "caption":"Детские парикмахерские",
+      "id":"110353",
+      "name":"Детские парикмахерские",
+      "org_count":5,
+      "title":"Детские парикмахерские",
+      "type":"rubric"
+   }
+]

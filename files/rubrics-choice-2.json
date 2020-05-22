@@ -1,0 +1,2917 @@
+[
+  {
+    "branch_count": 21,
+    "caption": "Организации природоохраны",
+    "id": "252",
+    "name": "Организации природоохраны",
+    "org_count": 20,
+    "seo_name": "Организации по охране окружающей среды",
+    "title": "Организации природоохраны",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Гидрометеослужба",
+    "id": "251",
+    "name": "Гидрометеослужба",
+    "org_count": 2,
+    "seo_name": "Метеостанции (гидрометеослужбы)",
+    "title": "Гидрометеослужба",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 10,
+    "caption": "Добыча полезных ископаемых",
+    "id": "19132",
+    "name": "Добыча полезных ископаемых",
+    "org_count": 9,
+    "title": "Добыча полезных ископаемых",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 10,
+    "caption": "Геологоразведочные работы",
+    "id": "19134",
+    "name": "Геологоразведочные работы",
+    "org_count": 10,
+    "seo_name": "Геологоразведка (геологоразведочные работы)",
+    "title": "Геологоразведочные работы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 5,
+    "caption": "Животноводство",
+    "id": "59284",
+    "name": "Животноводство",
+    "org_count": 5,
+    "title": "Животноводство",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 17,
+    "caption": "Подшипники",
+    "id": "613",
+    "name": "Подшипники",
+    "org_count": 16,
+    "title": "Подшипники",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 8,
+    "caption": "Санитарно-эпидемиологические исследования",
+    "id": "215",
+    "name": "Санитарно-эпидемиологические исследования",
+    "org_count": 6,
+    "title": "Санитарно-эпидемиологические исследования",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Дизайн ювелирных изделий",
+    "id": "110369",
+    "name": "Дизайн / моделирование ювелирных изделий",
+    "org_count": 3,
+    "title": "Дизайн ювелирных изделий",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 337,
+    "caption": "Кафе",
+    "icon_url": "http://disk.2gis.com/rubricator/cafef99cdf22ed508f08db0d770943367ef0.svg",
+    "id": "161",
+    "name": "Кафе",
+    "org_count": 286,
+    "tag": "cafe",
+    "title": "Кафе",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 99,
+    "caption": "Рестораны",
+    "icon_url": "http://disk.2gis.com/rubricator/restaurantac12d4238799c182714ec89562877877.svg",
+    "id": "164",
+    "name": "Рестораны",
+    "org_count": 93,
+    "tag": "restaurant",
+    "title": "Рестораны",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 80,
+    "caption": "Бары",
+    "icon_url": "http://disk.2gis.com/rubricator/bar20bd6068bc164b6e75eb28eb560020d8.svg",
+    "id": "159",
+    "name": "Бары",
+    "org_count": 75,
+    "seo_name": "Бары / Пабы",
+    "tag": "bar",
+    "title": "Бары",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 209,
+    "caption": "Доставка",
+    "icon_url": "http://disk.2gis.com/rubricator/food_delivery92c3b7b497f1d39d53f595e048a2d470.svg",
+    "id": "1203",
+    "name": "Доставка готовых блюд",
+    "org_count": 172,
+    "seo_name": "Доставка (заказ) еды",
+    "tag": "food_delivery",
+    "title": "Доставка",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 30,
+    "caption": "Кейтеринг",
+    "id": "9786",
+    "name": "Кейтеринг",
+    "org_count": 30,
+    "seo_name": "Кейтеринг, кейтеринговые компании",
+    "title": "Кейтеринг",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 60,
+    "caption": "Безалкогольные напитки",
+    "id": "58871",
+    "name": "Точки безалкогольных напитков",
+    "org_count": 36,
+    "title": "Безалкогольные напитки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Чайные клубы",
+    "id": "110317",
+    "name": "Чайные клубы",
+    "org_count": 2,
+    "title": "Чайные клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 294,
+    "caption": "Быстрое питание",
+    "id": "165",
+    "name": "Быстрое питание",
+    "org_count": 172,
+    "title": "Быстрое питание",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 110,
+    "caption": "Кофейни",
+    "id": "162",
+    "name": "Кафе-кондитерские / Кофейни",
+    "org_count": 58,
+    "title": "Кофейни",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 22,
+    "caption": "Готовые блюда",
+    "id": "16677",
+    "name": "Кулинарии",
+    "org_count": 19,
+    "title": "Готовые блюда",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 40,
+    "caption": "Пиццерии",
+    "id": "51459",
+    "name": "Пиццерии",
+    "org_count": 26,
+    "seo_name": "Пицца (пиццерии)",
+    "title": "Пиццерии",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 80,
+    "caption": "Столовые",
+    "id": "166",
+    "name": "Столовые",
+    "org_count": 70,
+    "seo_name": "Столовые",
+    "title": "Столовые",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 26,
+    "caption": "Суши-бары",
+    "id": "15791",
+    "name": "Суши-бары / рестораны",
+    "org_count": 22,
+    "title": "Суши-бары",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 398,
+    "caption": "Авторемонт",
+    "icon_url": "http://disk.2gis.com/rubricator/car_repairc11263337e0283a18061c69879fa366f.svg",
+    "id": "9041",
+    "name": "Авторемонт и техобслуживание (СТО)",
+    "org_count": 370,
+    "seo_name": "Автосервисы (СТО)",
+    "tag": "car_repair",
+    "title": "Авторемонт",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 141,
+    "caption": "Автомойки",
+    "icon_url": "http://disk.2gis.com/rubricator/carwash3b5dfcef6ead5d8b7062a403c5d6a7ba.svg",
+    "id": "405",
+    "name": "Автомойки",
+    "org_count": 132,
+    "seo_name": "Автомойки, мойка автомобилей",
+    "tag": "carwash",
+    "title": "Автомойки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 197,
+    "caption": "Шиномонтаж",
+    "icon_url": "http://disk.2gis.com/rubricator/tire_workshops542c80f7895a2012c98a79daacb4b1dd.svg",
+    "id": "7689",
+    "name": "Шиномонтаж",
+    "org_count": 170,
+    "tag": "tire_workshops",
+    "title": "Шиномонтаж",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 35,
+    "caption": "Авторазбор",
+    "icon_url": "http://disk.2gis.com/rubricator/chopshop13b373c0ded281a77f83a5d414601525.svg",
+    "id": "406",
+    "name": "Услуги авторазбора",
+    "org_count": 32,
+    "tag": "chopshop",
+    "title": "Авторазбор",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 160,
+    "caption": "Кузовной ремонт",
+    "id": "7693",
+    "name": "Кузовной ремонт",
+    "org_count": 154,
+    "seo_name": "Кузовной ремонт, покраска автомобилей",
+    "title": "Кузовной ремонт",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 129,
+    "caption": "Автосигнализации",
+    "id": "408",
+    "name": "Автосигнализации",
+    "org_count": 124,
+    "seo_name": "Автосигнализации (автомобильные сигнализации) — продажа, установка",
+    "title": "Автосигнализации",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 110,
+    "caption": "Ремонт грузовиков",
+    "id": "20989",
+    "name": "Ремонт грузовых автомобилей",
+    "org_count": 106,
+    "seo_name": "Ремонт грузовых автомобилей (грузовой автосервис)",
+    "title": "Ремонт грузовиков",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 34,
+    "caption": "Тех.осмотр",
+    "id": "4532",
+    "name": "Технический осмотр транспорта",
+    "org_count": 30,
+    "seo_name": "Техосмотр (пункты технического осмотра)",
+    "title": "Тех.осмотр",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 233,
+    "caption": "Ремонт автоэлектрики",
+    "id": "7692",
+    "name": "Ремонт автоэлектрики",
+    "org_count": 216,
+    "title": "Ремонт автоэлектрики",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 370,
+    "caption": "Ремонт ходовой части",
+    "id": "7691",
+    "name": "Ремонт ходовой части автомобиля",
+    "org_count": 343,
+    "title": "Ремонт ходовой части",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 44,
+    "caption": "Эвакуация автомобилей",
+    "id": "9867",
+    "name": "Эвакуация автомобилей",
+    "org_count": 42,
+    "seo_name": "Эвакуаторы, эвакуация автомобилей",
+    "title": "Эвакуация автомобилей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 40,
+    "caption": "Автоэкспертиза",
+    "id": "342",
+    "name": "Автоэкспертиза",
+    "org_count": 40,
+    "seo_name": "Автоэкспертиза, оценка автомобиля",
+    "title": "Автоэкспертиза",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 37,
+    "caption": "Тонирование автостёкол",
+    "id": "413",
+    "name": "Тонирование автостёкол",
+    "org_count": 35,
+    "seo_name": "Тонировка (тонирование) стекол автомобилей",
+    "title": "Тонирование автостёкол",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 97,
+    "caption": "Развал-схождение",
+    "id": "7690",
+    "name": "Развал / Схождение",
+    "org_count": 89,
+    "seo_name": "Развал / Схождение (сход-развал)",
+    "title": "Развал-схождение",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 42,
+    "caption": "Ремонт стёкол",
+    "id": "10792",
+    "name": "Установка / ремонт автостёкол",
+    "org_count": 37,
+    "seo_name": "Установка, ремонт, замена автостекол",
+    "title": "Ремонт стёкол",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Газовое оборудование для автотранспорта",
+    "id": "437",
+    "name": "Газовое оборудование для автотранспорта",
+    "org_count": 4,
+    "seo_name": "Автомобильное газовое оборудование (ГБО) — продажа, установка, ремонт",
+    "title": "Газовое оборудование для автотранспорта",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 71,
+    "caption": "Автозвук",
+    "id": "404",
+    "name": "Автозвук",
+    "org_count": 67,
+    "title": "Автозвук",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 153,
+    "caption": "Аппаратная замена масла",
+    "id": "7900",
+    "name": "Аппаратная замена масла",
+    "org_count": 132,
+    "title": "Аппаратная замена масла",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 91,
+    "caption": "Тюнинг",
+    "id": "414",
+    "name": "Тюнинг",
+    "org_count": 89,
+    "seo_name": "Тюнинг (автотюнинг)",
+    "title": "Тюнинг",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 119,
+    "caption": "Стоянки",
+    "id": "409",
+    "name": "Автостоянки",
+    "org_count": 115,
+    "seo_name": "Парковки, автостоянки",
+    "title": "Стоянки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 250,
+    "caption": "Ремонт бензиновых двигателей",
+    "id": "7695",
+    "name": "Ремонт бензиновых двигателей",
+    "org_count": 240,
+    "title": "Ремонт бензиновых двигателей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 117,
+    "caption": "Компьютерная диагностика автомобилей",
+    "id": "110362",
+    "name": "Компьютерная диагностика автомобилей",
+    "org_count": 109,
+    "title": "Компьютерная диагностика автомобилей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 15,
+    "caption": "Аварийные комиссары",
+    "id": "16182",
+    "name": "Службы аварийных комиссаров",
+    "org_count": 15,
+    "seo_name": "Аварийные комиссары (аваркомы)",
+    "title": "Аварийные комиссары",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 64,
+    "caption": "Ремонт АКПП",
+    "id": "412",
+    "name": "Ремонт АКПП",
+    "org_count": 61,
+    "title": "Ремонт АКПП",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 197,
+    "caption": "Ремонт дизельных двигателей",
+    "id": "7694",
+    "name": "Ремонт дизельных двигателей",
+    "org_count": 196,
+    "seo_name": "Диагностика, ремонт дизельных двигателей",
+    "title": "Ремонт дизельных двигателей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 106,
+    "caption": "Ремонт спецтехники",
+    "id": "7757",
+    "name": "Ремонт спецтехники",
+    "org_count": 102,
+    "title": "Ремонт спецтехники",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 32,
+    "caption": "Ремонт дизельной топливной системы",
+    "id": "16648",
+    "name": "Ремонт топливной аппаратуры дизельных двигателей",
+    "org_count": 31,
+    "seo_name": "Ремонт топливной аппаратуры дизельных двигателей (ТНВД)",
+    "title": "Ремонт дизельной топливной системы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 20,
+    "caption": "Выездная помощь на дороге",
+    "id": "110316",
+    "name": "Выездная техническая помощь на дороге",
+    "org_count": 19,
+    "title": "Выездная помощь на дороге",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 70,
+    "caption": "Ремонт электронных систем",
+    "id": "10412",
+    "name": "Ремонт электронных систем управления автомобиля",
+    "org_count": 63,
+    "seo_name": "Ремонт электронных систем управления автомобилем, автосигнализаций",
+    "title": "Ремонт электронных систем",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 19,
+    "caption": "Пошив авточехлов, ковров",
+    "id": "70164",
+    "name": "Пошив авточехлов / автоковров",
+    "org_count": 19,
+    "title": "Пошив авточехлов, ковров",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 64,
+    "caption": "Ремонт выхлопных систем",
+    "id": "52408",
+    "name": "Ремонт выхлопных систем",
+    "org_count": 59,
+    "seo_name": "Ремонт глушителя и выхлопных систем",
+    "title": "Ремонт выхлопных систем",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 21,
+    "caption": "Сервис мототехники",
+    "id": "18630",
+    "name": "Ремонт / тюнинг мототехники",
+    "org_count": 20,
+    "title": "Сервис мототехники",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 48,
+    "caption": "Детейлинг",
+    "id": "110301",
+    "name": "Детейлинг",
+    "org_count": 44,
+    "title": "Детейлинг",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 26,
+    "caption": "Отогрев автомобилей",
+    "id": "56428",
+    "name": "Услуги по отогреву автомобиля",
+    "org_count": 26,
+    "seo_name": "Отогрев автомобиля",
+    "title": "Отогрев автомобилей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 33,
+    "caption": "Ремонт карбюраторов, инжекторов",
+    "id": "7699",
+    "name": "Ремонт карбюраторов / инжекторов",
+    "org_count": 30,
+    "seo_name": "Ремонт, регулировка, промывка карбюраторов и инжекторов",
+    "title": "Ремонт карбюраторов, инжекторов",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Хранение шин",
+    "id": "22829",
+    "name": "Хранение шин",
+    "org_count": 2,
+    "seo_name": "Сезонное хранение шин (шинные отели)",
+    "title": "Хранение шин",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 60,
+    "caption": "Ремонт МКПП",
+    "id": "110363",
+    "name": "Ремонт МКПП",
+    "org_count": 57,
+    "title": "Ремонт МКПП",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 9,
+    "caption": "Антикоррозийная обработка автомобилей",
+    "id": "410",
+    "name": "Антикоррозийная обработка автомобилей",
+    "org_count": 9,
+    "title": "Антикоррозийная обработка автомобилей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 14,
+    "caption": "Ремонт оптики",
+    "id": "110365",
+    "name": "Установка / ремонт автомобильной оптики",
+    "org_count": 13,
+    "title": "Ремонт оптики",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 15,
+    "caption": "Переоборудование",
+    "id": "110366",
+    "name": "Переоборудование автомобилей",
+    "org_count": 14,
+    "title": "Переоборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 12,
+    "caption": "Ремонт автобусов",
+    "id": "110364",
+    "name": "Ремонт автобусов",
+    "org_count": 10,
+    "title": "Ремонт автобусов",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Аэрография",
+    "id": "24814",
+    "name": "Аэрография на транспорте",
+    "org_count": 6,
+    "seo_name": "Аэрография на авто, транспорте",
+    "title": "Аэрография",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Зарядка электротранспорта",
+    "id": "110320",
+    "name": "Станции для зарядки электротранспорта",
+    "org_count": 1,
+    "title": "Зарядка электротранспорта",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Автосервис самообслуживания",
+    "id": "110822",
+    "name": "Автосервис самообслуживания",
+    "org_count": 3,
+    "title": "Автосервис самообслуживания",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Ремонт гибридных автомобилей",
+    "id": "111509",
+    "name": "Ремонт гибридных автомобилей",
+    "org_count": 6,
+    "title": "Ремонт гибридных автомобилей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 641,
+    "caption": "Парикмахерские",
+    "icon_url": "http://disk.2gis.com/rubricator/hairdressersfbbf55482a7b22b2e32733525dfd5fb8.svg",
+    "id": "305",
+    "name": "Парикмахерские",
+    "org_count": 595,
+    "tag": "hairdressers",
+    "title": "Парикмахерские",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 287,
+    "caption": "Косметолог",
+    "icon_url": "http://disk.2gis.com/rubricator/beauty_salonsecb7175db0291b6289369735d23e946c.svg",
+    "id": "652",
+    "name": "Услуги косметолога",
+    "org_count": 269,
+    "tag": "beauty_salons",
+    "title": "Косметолог",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 559,
+    "caption": "Маникюр и педикюр",
+    "icon_url": "http://disk.2gis.com/rubricator/manicure59949b46340021434d7c68817a185198.svg",
+    "id": "5603",
+    "name": "Ногтевые студии",
+    "org_count": 519,
+    "seo_name": "Студии ногтевого сервиса",
+    "tag": "manicure",
+    "title": "Маникюр и педикюр",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 356,
+    "caption": "Косметика",
+    "icon_url": "http://disk.2gis.com/rubricator/cosmetics2da4279ba574c727c997fe09752f4b20.svg",
+    "id": "382",
+    "name": "Косметика / Парфюмерия",
+    "org_count": 224,
+    "tag": "cosmetics",
+    "title": "Косметика",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 116,
+    "caption": "Солярии",
+    "icon_url": "http://disk.2gis.com/rubricator/solarium9a5764feb601bb6cb6241c10bbefb670.svg",
+    "id": "651",
+    "name": "Студии загара",
+    "org_count": 109,
+    "seo_name": "Солярии (студии загара)",
+    "tag": "solarium",
+    "title": "Солярии",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 268,
+    "caption": "Ресницы и брови",
+    "id": "110355",
+    "name": "Услуги по уходу за ресницами / бровями",
+    "org_count": 251,
+    "title": "Ресницы и брови",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 98,
+    "caption": "Визажист",
+    "id": "58858",
+    "name": "Услуги визажиста",
+    "org_count": 87,
+    "seo_name": "Визажисты",
+    "title": "Визажист",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Имидж-консультант",
+    "id": "20165",
+    "name": "Услуги имидж-консультанта",
+    "org_count": 4,
+    "seo_name": "Стилисты, имиджмейкеры, шопперы",
+    "title": "Имидж-консультант",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 169,
+    "caption": "Косметика для салонов красоты",
+    "id": "13102",
+    "name": "Косметика / расходные материалы для салонов красоты",
+    "org_count": 127,
+    "seo_name": "Профессиональная косметика / расходные материалы для салонов красоты",
+    "title": "Косметика для салонов красоты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 194,
+    "caption": "Массаж",
+    "id": "13726",
+    "name": "Услуги массажиста",
+    "org_count": 177,
+    "seo_name": "Массажные салоны, услуги массажиста",
+    "title": "Массаж",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 50,
+    "caption": "SPA",
+    "id": "56759",
+    "name": "SPA-процедуры",
+    "org_count": 46,
+    "seo_name": "СПА-салоны (центры)",
+    "title": "SPA",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 13,
+    "caption": "Тату-салоны",
+    "id": "14942",
+    "name": "Тату-салоны",
+    "org_count": 13,
+    "seo_name": "Тату-салоны (изготовление татуировок)",
+    "title": "Тату-салоны",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Соляные комнаты",
+    "id": "69989",
+    "name": "Соляные комнаты",
+    "org_count": 6,
+    "title": "Соляные комнаты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 9,
+    "caption": "Тонизирующие салоны",
+    "id": "13597",
+    "name": "Тонизирующие салоны",
+    "org_count": 9,
+    "title": "Тонизирующие салоны",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 7,
+    "caption": "Накладные волосы",
+    "id": "51009",
+    "name": "Парики / Накладные волосы",
+    "org_count": 6,
+    "title": "Накладные волосы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 10,
+    "caption": "Косметика ручной работы",
+    "id": "53986",
+    "name": "Косметика ручной работы",
+    "org_count": 6,
+    "title": "Косметика ручной работы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Роспись по телу",
+    "id": "67142",
+    "name": "Услуги росписи по телу",
+    "org_count": 3,
+    "seo_name": "Роспись по телу, био-тату",
+    "title": "Роспись по телу",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 7,
+    "caption": "Детские парикмахерские",
+    "id": "110353",
+    "name": "Детские парикмахерские",
+    "org_count": 5,
+    "title": "Детские парикмахерские",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Коллагенарий",
+    "id": "110975",
+    "name": "Коллагенарий",
+    "org_count": 2,
+    "title": "Коллагенарий",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 28,
+    "caption": "Барбершопы",
+    "id": "110998",
+    "name": "Барбершопы",
+    "org_count": 24,
+    "title": "Барбершопы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 129,
+    "caption": "Бани и сауны",
+    "icon_url": "http://disk.2gis.com/rubricator/sauna3c41dac201a326ea24e5f2862d305ceb.svg",
+    "id": "946",
+    "name": "Бани / Сауны",
+    "org_count": 119,
+    "seo_name": "Бани / Сауны / Парные / Хаммамы",
+    "tag": "sauna",
+    "title": "Бани и сауны",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 36,
+    "caption": "Паровые коктейли",
+    "icon_url": "http://disk.2gis.com/rubricator/steam_cocktails074e08ce6f08b460e39722da6f9ec08d.svg",
+    "id": "110357",
+    "name": "Центры паровых коктейлей",
+    "org_count": 32,
+    "tag": "steam_cocktails",
+    "title": "Паровые коктейли",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 26,
+    "caption": "Караоке",
+    "icon_url": "http://disk.2gis.com/rubricator/karaokefdf0006c31d5ce962e2063e0614c7d5d.svg",
+    "id": "21387",
+    "name": "Караоке-залы",
+    "org_count": 26,
+    "seo_name": "Караоке-клубы / бары",
+    "tag": "karaoke",
+    "title": "Караоке",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 11,
+    "caption": "Ночные клубы",
+    "id": "173",
+    "name": "Ночные клубы",
+    "org_count": 11,
+    "title": "Ночные клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 27,
+    "caption": "Детские игровые залы",
+    "id": "16743",
+    "name": "Детские игровые залы / Игротеки",
+    "org_count": 24,
+    "seo_name": "Детские развлекательные центры, игровые залы, игротеки",
+    "title": "Детские игровые залы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 26,
+    "caption": "Квесты",
+    "id": "110300",
+    "name": "Организация и проведение квестов",
+    "org_count": 24,
+    "title": "Квесты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 20,
+    "caption": "Спортивно-тактические клубы",
+    "id": "808",
+    "name": "Спортивно-тактические клубы",
+    "org_count": 18,
+    "seo_name": "Пейнтбольные, страйкбольные и лазертаг клубы",
+    "title": "Спортивно-тактические клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 13,
+    "caption": "Бильярдные залы",
+    "id": "169",
+    "name": "Бильярдные залы",
+    "org_count": 13,
+    "seo_name": "Бильярд (бильярдные клубы)",
+    "title": "Бильярдные залы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Антикафе",
+    "id": "72370",
+    "name": "Антикафе",
+    "org_count": 2,
+    "seo_name": "Антикафе (тайм-кафе)",
+    "title": "Антикафе",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Боулинг",
+    "id": "170",
+    "name": "Боулинг",
+    "org_count": 3,
+    "title": "Боулинг",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 8,
+    "caption": "Стрелковые клубы",
+    "id": "6505",
+    "name": "Стрелковые клубы",
+    "org_count": 8,
+    "seo_name": "Тиры, стрелковые клубы, стрельбища",
+    "title": "Стрелковые клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 12,
+    "caption": "Аттракционы",
+    "id": "110358",
+    "name": "Аттракционы",
+    "org_count": 12,
+    "title": "Аттракционы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 19,
+    "caption": "Аренда беседок",
+    "id": "110305",
+    "name": "Аренда беседок",
+    "org_count": 19,
+    "title": "Аренда беседок",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Настольные и видеоигры",
+    "id": "110430",
+    "name": "Клубы настольных игр / видеоигр",
+    "org_count": 3,
+    "title": "Настольные и видеоигры",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Научно-развлекательные центры",
+    "id": "110345",
+    "name": "Научно-развлекательные центры",
+    "org_count": 2,
+    "title": "Научно-развлекательные центры",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Стриптиз-клубы",
+    "id": "110530",
+    "name": "Стриптиз-клубы",
+    "org_count": 1,
+    "title": "Стриптиз-клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 15,
+    "caption": "Компьютерные клубы",
+    "id": "178",
+    "name": "Компьютерные клубы",
+    "org_count": 9,
+    "seo_name": "Интернет-кафе / Игровые, компьютерные клубы",
+    "title": "Компьютерные клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 12,
+    "caption": "Услуги Деда Мороза",
+    "id": "111573",
+    "name": "Услуги Деда Мороза",
+    "org_count": 12,
+    "title": "Услуги Деда Мороза",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Центры виртуальной реальности",
+    "id": "112442",
+    "name": "Центры виртуальной реальности",
+    "org_count": 2,
+    "title": "Центры виртуальной реальности",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 334,
+    "caption": "Аптеки",
+    "icon_url": "http://disk.2gis.com/rubricator/pharmacies21462c2d7f7c5be5dd8d2e1737bf8b28.svg",
+    "id": "207",
+    "name": "Аптеки",
+    "org_count": 112,
+    "tag": "pharmacies",
+    "title": "Аптеки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 8,
+    "caption": "Ведение беременности",
+    "id": "107581",
+    "name": "Услуги ведения беременности",
+    "org_count": 4,
+    "title": "Ведение беременности",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 18,
+    "caption": "Роды и лечение за рубежом",
+    "id": "51099",
+    "name": "Услуги по организации родов / лечения за рубежом",
+    "org_count": 18,
+    "title": "Роды и лечение за рубежом",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Фониатр",
+    "id": "110499",
+    "name": "Услуги фониатра",
+    "org_count": 2,
+    "title": "Фониатр",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 16,
+    "caption": "Стоматологические поликлиники",
+    "id": "226",
+    "name": "Стоматологические поликлиники",
+    "org_count": 12,
+    "seo_name": "Стоматологические поликлиники",
+    "title": "Стоматологические поликлиники",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 7,
+    "caption": "Женские консультации",
+    "id": "649",
+    "name": "Женские консультации",
+    "org_count": 7,
+    "seo_name": "Женские консультации, гинекологии",
+    "title": "Женские консультации",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Санатории, профилактории",
+    "id": "214",
+    "name": "Санатории / Профилактории",
+    "org_count": 5,
+    "title": "Санатории, профилактории",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Станции переливания крови",
+    "id": "216",
+    "name": "Станции переливания крови",
+    "org_count": 1,
+    "seo_name": "Станции переливания крови (донорские пункты)",
+    "title": "Станции переливания крови",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 33,
+    "caption": "Ветеринарные клиники",
+    "id": "205",
+    "name": "Ветеринарные клиники",
+    "org_count": 23,
+    "seo_name": "Ветеринарные клиники (ветклиники)",
+    "title": "Ветеринарные клиники",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 36,
+    "caption": "Ветеринарные аптеки",
+    "id": "204",
+    "name": "Ветеринарные аптеки",
+    "org_count": 23,
+    "seo_name": "Ветеринарные аптеки (ветаптеки)",
+    "title": "Ветеринарные аптеки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Выездные ветеринары",
+    "id": "51092",
+    "name": "Выездные ветеринарные службы",
+    "org_count": 1,
+    "seo_name": "Вызов ветеринара (ветеринарная помощь) на дом",
+    "title": "Выездные ветеринары",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 7,
+    "caption": "Ветеринарные лаборатории",
+    "id": "51407",
+    "name": "Ветеринарные лаборатории",
+    "org_count": 4,
+    "seo_name": "Ветеринарные лаборатории (ветлаборатории)",
+    "title": "Ветеринарные лаборатории",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 42,
+    "caption": "Услуги процедурного кабинета",
+    "id": "111507",
+    "name": "Услуги процедурного кабинета",
+    "org_count": 24,
+    "title": "Услуги процедурного кабинета",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 105,
+    "caption": "Шины, диски",
+    "icon_url": "http://disk.2gis.com/rubricator/tiresee3b9dbc39fa605ae18713328aca6300.svg",
+    "id": "427",
+    "name": "Шины / Диски",
+    "org_count": 87,
+    "tag": "tires",
+    "title": "Шины, диски",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 299,
+    "caption": "Масла, автохимия",
+    "icon_url": "http://disk.2gis.com/rubricator/oil58e37e5a3450547a594395583593b535.svg",
+    "id": "426",
+    "name": "Автомасла / Мотомасла / Химия",
+    "org_count": 252,
+    "seo_name": "Автохимия / Моторное масло",
+    "tag": "oil",
+    "title": "Масла, автохимия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 101,
+    "caption": "Автоаккумуляторы",
+    "icon_url": "http://disk.2gis.com/rubricator/batterya93707f841b5c78491c0e2ba2b55d9eb.svg",
+    "id": "524",
+    "name": "Автомобильные аккумуляторы",
+    "org_count": 76,
+    "seo_name": "Автомобильные аккумуляторы (аккумуляторы для автомобиля)",
+    "tag": "battery",
+    "title": "Автоаккумуляторы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 197,
+    "caption": "Автоаксессуары",
+    "id": "425",
+    "name": "Автоаксессуары",
+    "org_count": 164,
+    "title": "Автоаксессуары",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 26,
+    "caption": "Автостекло",
+    "id": "677",
+    "name": "Автостекло",
+    "org_count": 22,
+    "title": "Автостекло",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 16,
+    "caption": "Автоэмали",
+    "id": "645",
+    "name": "Автоэмали",
+    "org_count": 13,
+    "seo_name": "Автоэмали (автокраски)",
+    "title": "Автоэмали",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 40,
+    "caption": "Специализированное автооборудование",
+    "id": "433",
+    "name": "Специализированное автооборудование",
+    "org_count": 34,
+    "title": "Специализированное автооборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 31,
+    "caption": "Подогреватели двигателя",
+    "id": "110517",
+    "name": "Предпусковые подогреватели двигателя",
+    "org_count": 30,
+    "title": "Подогреватели двигателя",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Тонировочные и защитные плёнки",
+    "id": "47338",
+    "name": "Тонировочные / защитные плёнки для автомобилей",
+    "org_count": 4,
+    "seo_name": "Тонировочные, защитные пленки для автомобилей / Автовинил",
+    "title": "Тонировочные и защитные плёнки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 12,
+    "caption": "Тахографы",
+    "id": "110372",
+    "name": "Тахографы",
+    "org_count": 10,
+    "title": "Тахографы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 9,
+    "caption": "Прицепы",
+    "id": "110482",
+    "name": "Автоприцепы",
+    "org_count": 9,
+    "title": "Прицепы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 10,
+    "caption": "Контейнеры",
+    "id": "55727",
+    "name": "Контейнеры для грузоперевозок",
+    "org_count": 9,
+    "title": "Контейнеры",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Изоляционные материалы для автомобилей",
+    "id": "111508",
+    "name": "Изоляционные материалы для автомобилей",
+    "org_count": 3,
+    "title": "Изоляционные материалы для автомобилей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Аэросъёмка",
+    "id": "110384",
+    "name": "Аэросъёмка",
+    "org_count": 1,
+    "title": "Аэросъёмка",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 171,
+    "caption": "Ремонт компьютеров",
+    "id": "650",
+    "name": "Ремонт компьютеров",
+    "org_count": 143,
+    "seo_name": "Ремонт компьютеров (компьютерная помощь)",
+    "title": "Ремонт компьютеров",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 7,
+    "caption": "Модернизация компьютеров",
+    "id": "182",
+    "name": "Модернизация компьютеров",
+    "org_count": 7,
+    "seo_name": "Модернизация компьютеров (апгрейд / моддинг)",
+    "title": "Модернизация компьютеров",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 9,
+    "caption": "Гостиницы для животных",
+    "id": "19661",
+    "name": "Гостиницы для животных",
+    "org_count": 9,
+    "seo_name": "Гостиницы для кошек / собак / домашних животных",
+    "title": "Гостиницы для животных",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Дизайн аквариумов",
+    "id": "53989",
+    "name": "Дизайн аквариумов",
+    "org_count": 1,
+    "seo_name": "Дизайн (оформление) аквариумов",
+    "title": "Дизайн аквариумов",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Зоотакси",
+    "id": "52958",
+    "name": "Заказ легкового транспорта по перевозке животных",
+    "org_count": 2,
+    "title": "Зоотакси",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 8,
+    "caption": "Клубы домашних животных, питомники",
+    "id": "156",
+    "name": "Клубы домашних животных / Питомники",
+    "org_count": 7,
+    "title": "Клубы домашних животных, питомники",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Приюты для животных",
+    "id": "22064",
+    "name": "Приюты для животных",
+    "org_count": 2,
+    "seo_name": "Приюты для собак, кошек, бездомных животных",
+    "title": "Приюты для животных",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Ритуальные услуги для животных",
+    "id": "51096",
+    "name": "Ритуальные услуги для животных",
+    "org_count": 2,
+    "title": "Ритуальные услуги для животных",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 24,
+    "caption": "Уход за животными",
+    "id": "16414",
+    "name": "Услуги по уходу за животными",
+    "org_count": 24,
+    "seo_name": "Салоны для животных, услуги по уходу за животными",
+    "title": "Уход за животными",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 10,
+    "caption": "Организации по профориентации",
+    "id": "22779",
+    "name": "Организации по профориентации",
+    "org_count": 5,
+    "seo_name": "Профориентация школьников и взрозлых",
+    "title": "Организации по профориентации",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 19,
+    "caption": "Государственные сайты",
+    "id": "52115",
+    "name": "Государственные информационные сайты",
+    "org_count": 19,
+    "seo_name": "Порталы / сайты государственных услуг",
+    "title": "Государственные сайты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Виртуальные туры",
+    "id": "110382",
+    "name": "Создание виртуальных туров",
+    "org_count": 1,
+    "title": "Виртуальные туры",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 7,
+    "caption": "Энергоаудит",
+    "id": "25012",
+    "name": "Энергоаудит",
+    "org_count": 7,
+    "seo_name": "Энергоаудит (энергетическое обследование)",
+    "title": "Энергоаудит",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Радиационный контроль",
+    "id": "51373",
+    "name": "Радиационный контроль",
+    "org_count": 3,
+    "seo_name": "Радиационная безопасность (контроль)",
+    "title": "Радиационный контроль",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 14,
+    "caption": "Экспертиза товаров",
+    "id": "20944",
+    "name": "Экспертиза товаров народного потребления",
+    "org_count": 14,
+    "seo_name": "Независимая экспертиза товаров",
+    "title": "Экспертиза товаров",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Выгул животных",
+    "id": "110651",
+    "name": "Выгул домашних животных",
+    "org_count": 2,
+    "title": "Выгул животных",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 13,
+    "caption": "Помощь в подключении услуг связи",
+    "id": "110947",
+    "name": "Помощь в подключении услуг связи",
+    "org_count": 11,
+    "title": "Помощь в подключении услуг связи",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 19,
+    "caption": "Подбор автомобиля перед покупкой",
+    "id": "111502",
+    "name": "Подбор автомобиля перед покупкой",
+    "org_count": 17,
+    "title": "Подбор автомобиля перед покупкой",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Аренда площадок для культурно-массовых мероприятий",
+    "id": "111506",
+    "name": "Аренда площадок для культурно-массовых мероприятий",
+    "org_count": 3,
+    "title": "Аренда площадок для культурно-массовых мероприятий",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 10,
+    "caption": "Багетные мастерские",
+    "id": "112395",
+    "name": "Багетные мастерские",
+    "org_count": 8,
+    "title": "Багетные мастерские",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 13,
+    "caption": "Услуги оцифровки",
+    "id": "112419",
+    "name": "Услуги оцифровки",
+    "org_count": 11,
+    "title": "Услуги оцифровки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Мобильные приложения",
+    "id": "112431",
+    "name": "Мобильные приложения",
+    "org_count": 2,
+    "title": "Мобильные приложения",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 102,
+    "caption": "Гостиницы",
+    "icon_url": "http://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+    "id": "269",
+    "name": "Гостиницы",
+    "org_count": 95,
+    "seo_name": "Гостиницы (отели)",
+    "tag": "hotels",
+    "title": "Гостиницы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 217,
+    "caption": "Турагентства",
+    "icon_url": "http://disk.2gis.com/rubricator/tourism9d05040123bf80e8ae11a65ba2e09f9a.svg",
+    "id": "272",
+    "name": "Туристические агентства",
+    "org_count": 210,
+    "seo_name": "Туристические агентства (турагентства, турфирмы)",
+    "tag": "tourism",
+    "title": "Турагентства",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 22,
+    "caption": "Хостелы",
+    "icon_url": "http://disk.2gis.com/rubricator/hostelsee18ecbc5420b28ceaa5c421343cb72f.svg",
+    "id": "52681",
+    "name": "Хостелы",
+    "org_count": 22,
+    "tag": "hostels",
+    "title": "Хостелы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 26,
+    "caption": "Квартирные бюро",
+    "icon_url": "http://disk.2gis.com/rubricator/appartments80c673385f447a425215c3ae5f10566b.svg",
+    "id": "19487",
+    "name": "Квартирные бюро",
+    "org_count": 26,
+    "seo_name": "Квартиры посуточно",
+    "tag": "appartments",
+    "title": "Квартирные бюро",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 38,
+    "caption": "Базы отдыха",
+    "icon_url": "http://disk.2gis.com/rubricator/basesdd9c99a7ee4ca392dc0e77ad1b6b0624.svg",
+    "id": "547",
+    "name": "Базы отдыха",
+    "org_count": 37,
+    "seo_name": "Дома / базы отдыха / Пансионаты / Турбазы",
+    "tag": "bases",
+    "title": "Базы отдыха",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Аренда коттеджей",
+    "id": "23469",
+    "name": "Аренда коттеджей",
+    "org_count": 3,
+    "title": "Аренда коттеджей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 59,
+    "caption": "Туроператоры",
+    "id": "16615",
+    "name": "Туроператоры",
+    "org_count": 56,
+    "title": "Туроператоры",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 21,
+    "caption": "Детские лагеря",
+    "id": "270",
+    "name": "Детские лагеря",
+    "org_count": 20,
+    "title": "Детские лагеря",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 19,
+    "caption": "Круизы, морские, речные прогулки",
+    "id": "19601",
+    "name": "Круизы / Морские, речные прогулки",
+    "org_count": 18,
+    "seo_name": "Морские, речные круизы / прогулки",
+    "title": "Круизы, морские, речные прогулки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 12,
+    "caption": "Экскурсии по городу",
+    "id": "9281",
+    "name": "Организация экскурсий по городу",
+    "org_count": 12,
+    "seo_name": "Экскурсии по городу",
+    "title": "Экскурсии по городу",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 18,
+    "caption": "Бронирование гостиниц",
+    "id": "110387",
+    "name": "Бронирование гостиниц",
+    "org_count": 17,
+    "title": "Бронирование гостиниц",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 14,
+    "caption": "Организация активных туров",
+    "id": "25108",
+    "name": "Организация активных туров",
+    "org_count": 14,
+    "title": "Организация активных туров",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 25,
+    "caption": "Внутренний туризм",
+    "id": "23494",
+    "name": "Туроператоры / агентства внутреннего туризма",
+    "org_count": 24,
+    "title": "Внутренний туризм",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 764,
+    "caption": "Продуктовые магазины",
+    "icon_url": "http://disk.2gis.com/rubricator/grocery_stores7a30af73a35845fc44124293ff39ce64.svg",
+    "id": "373",
+    "name": "Продовольственные магазины",
+    "org_count": 649,
+    "seo_name": "Продуктовые (продовольственные) магазины / Гастрономы",
+    "tag": "grocery_stores",
+    "title": "Продуктовые магазины",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 187,
+    "caption": "Кондитерские изделия",
+    "icon_url": "http://disk.2gis.com/rubricator/sweetshop598faecbf78353846539765356f1834b.svg",
+    "id": "363",
+    "name": "Кондитерские изделия",
+    "org_count": 126,
+    "tag": "sweetshop",
+    "title": "Кондитерские изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 131,
+    "caption": "Рыба, морепродукты",
+    "icon_url": "http://disk.2gis.com/rubricator/fish987f039c0727d7110a47b02564af1e6a.svg",
+    "id": "366",
+    "name": "Рыба / Морепродукты",
+    "org_count": 103,
+    "tag": "fish",
+    "title": "Рыба, морепродукты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 179,
+    "caption": "Мясо, полуфабрикаты",
+    "icon_url": "http://disk.2gis.com/rubricator/meat6c7c9dbb5e67e200c94233e6d1e4a681.svg",
+    "id": "562",
+    "name": "Мясо / Полуфабрикаты",
+    "org_count": 85,
+    "tag": "meat",
+    "title": "Мясо, полуфабрикаты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 174,
+    "caption": "Хлебобулочные изделия",
+    "id": "544",
+    "name": "Хлебобулочные изделия",
+    "org_count": 52,
+    "seo_name": "Магазины хлебобулочных изделий, хлебозаводы и пекарни",
+    "title": "Хлебобулочные изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 31,
+    "caption": "Продукция азиатской кухни, ингредиенты",
+    "id": "55540",
+    "name": "Ингредиенты / готовая продукция азиатской кухни",
+    "org_count": 19,
+    "seo_name": "Магазины азиатских продуктов и ингредиентов",
+    "title": "Продукция азиатской кухни, ингредиенты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 86,
+    "caption": "Мясо птицы, полуфабрикаты",
+    "id": "712",
+    "name": "Мясо птицы / Полуфабрикаты",
+    "org_count": 41,
+    "title": "Мясо птицы, полуфабрикаты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 18,
+    "caption": "Детское питание",
+    "id": "567",
+    "name": "Детское питание",
+    "org_count": 11,
+    "seo_name": "Магазины детского питания",
+    "title": "Детское питание",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 99,
+    "caption": "Молочные продукты",
+    "id": "557",
+    "name": "Молочные продукты",
+    "org_count": 46,
+    "seo_name": "Молочная продукция (молочные продукты)",
+    "title": "Молочные продукты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 19,
+    "caption": "Продукты пчеловодства",
+    "id": "1273",
+    "name": "Продукты пчеловодства",
+    "org_count": 10,
+    "seo_name": "Мед, продукты пчеловодства",
+    "title": "Продукты пчеловодства",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 120,
+    "caption": "Колбасные изделия",
+    "id": "4480",
+    "name": "Колбасные изделия",
+    "org_count": 40,
+    "title": "Колбасные изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 21,
+    "caption": "Пекарни",
+    "id": "111594",
+    "name": "Пекарни",
+    "org_count": 11,
+    "title": "Пекарни",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Новогодние сладкие подарки",
+    "id": "112441",
+    "name": "Новогодние сладкие подарки",
+    "org_count": 1,
+    "title": "Новогодние сладкие подарки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 98,
+    "caption": "Фитнес-клубы",
+    "icon_url": "http://disk.2gis.com/rubricator/fitness01b574d3e4759f5a031c86516afe28ca.svg",
+    "id": "268",
+    "name": "Фитнес-клубы",
+    "org_count": 84,
+    "seo_name": "Фитнес-клубы / центры",
+    "tag": "fitness",
+    "title": "Фитнес-клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 74,
+    "caption": "Тренажёрные залы",
+    "icon_url": "http://disk.2gis.com/rubricator/gym2bb6172444cc3ac47039413c78970f12.svg",
+    "id": "267",
+    "name": "Тренажёрные залы",
+    "org_count": 67,
+    "tag": "gym",
+    "title": "Тренажёрные залы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 147,
+    "caption": "Секции",
+    "icon_url": "http://disk.2gis.com/rubricator/section0c002ca6e331324632242942fdf397ff.svg",
+    "id": "51256",
+    "name": "Спортивные секции",
+    "org_count": 105,
+    "tag": "section",
+    "title": "Секции",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 98,
+    "caption": "Фитнес-клубы",
+    "icon_url": "http://disk.2gis.com/rubricator/fitness01b574d3e4759f5a031c86516afe28ca.svg",
+    "id": "268",
+    "name": "Фитнес-клубы",
+    "org_count": 84,
+    "seo_name": "Фитнес-клубы / центры",
+    "tag": "fitness",
+    "title": "Фитнес-клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 74,
+    "caption": "Тренажёрные залы",
+    "icon_url": "http://disk.2gis.com/rubricator/gym2bb6172444cc3ac47039413c78970f12.svg",
+    "id": "267",
+    "name": "Тренажёрные залы",
+    "org_count": 67,
+    "tag": "gym",
+    "title": "Тренажёрные залы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 147,
+    "caption": "Секции",
+    "icon_url": "http://disk.2gis.com/rubricator/section0c002ca6e331324632242942fdf397ff.svg",
+    "id": "51256",
+    "name": "Спортивные секции",
+    "org_count": 105,
+    "tag": "section",
+    "title": "Секции",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 88,
+    "caption": "Обучение танцам",
+    "id": "4515",
+    "name": "Обучение танцам",
+    "org_count": 75,
+    "title": "Обучение танцам",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 24,
+    "caption": "Центры йоги",
+    "id": "20228",
+    "name": "Центры йоги",
+    "org_count": 22,
+    "seo_name": "Йога-центры (школы, студии)",
+    "title": "Центры йоги",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 22,
+    "caption": "Спортивные школы",
+    "id": "633",
+    "name": "Спортивные школы",
+    "org_count": 18,
+    "seo_name": "Спортивные школы / СДЮШОР / ДЮСШ",
+    "title": "Спортивные школы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Картинг, авто-, мотоспорт",
+    "id": "51008",
+    "name": "Картинг / Автоцентры / Мотоцентры",
+    "org_count": 2,
+    "title": "Картинг, авто-, мотоспорт",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Батутные центры",
+    "id": "110427",
+    "name": "Батутные центры",
+    "org_count": 3,
+    "title": "Батутные центры",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Аренда спортивных площадок",
+    "id": "110498",
+    "name": "Аренда спортивных площадок",
+    "org_count": 6,
+    "title": "Аренда спортивных площадок",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Теннисные корты",
+    "id": "51241",
+    "name": "Теннисные корты",
+    "org_count": 2,
+    "title": "Теннисные корты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Велнес-залы",
+    "id": "71232",
+    "name": "Велнес-залы",
+    "org_count": 2,
+    "seo_name": "Wellness-центры (клубы)",
+    "title": "Велнес-залы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Организация спортивных мероприятий",
+    "id": "110448",
+    "name": "Организация спортивных мероприятий",
+    "org_count": 1,
+    "title": "Организация спортивных мероприятий",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 5,
+    "caption": "Скалодромы",
+    "id": "110303",
+    "name": "Скалодромы",
+    "org_count": 5,
+    "title": "Скалодромы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 29,
+    "caption": "Спортивно-интеллектуальные клубы",
+    "id": "51370",
+    "name": "Спортивно-интеллектуальные клубы",
+    "org_count": 12,
+    "title": "Спортивно-интеллектуальные клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Авиационные клубы",
+    "id": "51646",
+    "name": "Авиационные клубы",
+    "org_count": 2,
+    "seo_name": "Аэроклубы (авиацентры) / Прыжки с парашютом",
+    "title": "Авиационные клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Аквааэробика",
+    "id": "110332",
+    "name": "Занятия по аквааэробике",
+    "org_count": 2,
+    "title": "Аквааэробика",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Профессиональные спортивные клубы",
+    "id": "266",
+    "name": "Профессиональные спортивные клубы",
+    "org_count": 3,
+    "seo_name": "Спортклубы (спортивные клубы)",
+    "title": "Профессиональные спортивные клубы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 146,
+    "caption": "Развитие детей",
+    "icon_url": "http://disk.2gis.com/rubricator/development36f76031a5c68acc4ca43bd77a09c70a.svg",
+    "id": "5683",
+    "name": "Центры раннего развития детей",
+    "org_count": 114,
+    "tag": "development",
+    "title": "Развитие детей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 109,
+    "caption": "Общественные организации",
+    "id": "250",
+    "name": "Общественные организации",
+    "org_count": 106,
+    "seo_name": "Общественные организации, профсоюзы",
+    "title": "Общественные организации",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Благотворительные фонды",
+    "id": "494",
+    "name": "Благотворительные фонды",
+    "org_count": 6,
+    "seo_name": "Благотворительные фонды и организации",
+    "title": "Благотворительные фонды",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 89,
+    "caption": "Отделочные материалы",
+    "icon_url": "http://disk.2gis.com/rubricator/renovationcc9938f310c5a716a53243f77f317b45.svg",
+    "id": "9776",
+    "name": "Отделочные материалы",
+    "org_count": 66,
+    "tag": "renovation",
+    "title": "Отделочные материалы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 130,
+    "caption": "Окна",
+    "icon_url": "http://disk.2gis.com/rubricator/windows1a02bdf90115720b516f877465fb9bb2.svg",
+    "id": "288",
+    "name": "Окна",
+    "org_count": 115,
+    "seo_name": "Окна — производство, продажа, установка, ремонт",
+    "tag": "windows",
+    "title": "Окна",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 77,
+    "caption": "Натяжные потолки",
+    "id": "584",
+    "name": "Натяжные потолки",
+    "org_count": 69,
+    "title": "Натяжные потолки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 120,
+    "caption": "Напольные покрытия, комплектующие",
+    "id": "287",
+    "name": "Напольные покрытия / Комплектующие",
+    "org_count": 90,
+    "title": "Напольные покрытия, комплектующие",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 97,
+    "caption": "Крепёж",
+    "id": "805",
+    "name": "Крепёжные изделия",
+    "org_count": 79,
+    "seo_name": "Крепеж, крепежные изделия",
+    "title": "Крепёж",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 152,
+    "caption": "Лаки, краски",
+    "id": "285",
+    "name": "Лакокрасочные материалы",
+    "org_count": 131,
+    "seo_name": "Лакокрасочные материалы / Краски / Лаки",
+    "title": "Лаки, краски",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 45,
+    "caption": "Керамическая плитка",
+    "id": "538",
+    "name": "Керамическая плитка / Кафель",
+    "org_count": 39,
+    "seo_name": "Керамическая / кафельная плитка",
+    "title": "Керамическая плитка",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 49,
+    "caption": "Стекло, зеркала",
+    "id": "292",
+    "name": "Стекло / Зеркала",
+    "org_count": 42,
+    "title": "Стекло, зеркала",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 58,
+    "caption": "Обои",
+    "id": "556",
+    "name": "Обои",
+    "org_count": 49,
+    "seo_name": "Обои / Фотообои",
+    "title": "Обои",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 60,
+    "caption": "Декоративные элементы, покрытия",
+    "id": "13648",
+    "name": "Декоративные элементы / покрытия",
+    "org_count": 55,
+    "title": "Декоративные элементы, покрытия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 10,
+    "caption": "Дорожные устройства",
+    "id": "18471",
+    "name": "Специализированные дорожные средства / устройства",
+    "org_count": 10,
+    "title": "Дорожные устройства",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 43,
+    "caption": "Облицовочный камень",
+    "id": "50084",
+    "name": "Облицовочный камень",
+    "org_count": 37,
+    "seo_name": "Облицовочный (декоративный) камень",
+    "title": "Облицовочный камень",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 38,
+    "caption": "Погонажные изделия",
+    "id": "766",
+    "name": "Погонажные изделия",
+    "org_count": 26,
+    "title": "Погонажные изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 50,
+    "caption": "Комплектующие для окон",
+    "id": "1556",
+    "name": "Комплектующие для окон",
+    "org_count": 47,
+    "seo_name": "Комплектующие для окон / Оконная фурнитура",
+    "title": "Комплектующие для окон",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 63,
+    "caption": "Перегородки",
+    "id": "802",
+    "name": "Системы перегородок",
+    "org_count": 54,
+    "seo_name": "Перегородки",
+    "title": "Перегородки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 27,
+    "caption": "Гипсокартон",
+    "id": "580",
+    "name": "Гипсокартон / Комплектующие",
+    "org_count": 22,
+    "title": "Гипсокартон",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 79,
+    "caption": "Герметики, клеи",
+    "id": "582",
+    "name": "Герметики / Клеи",
+    "org_count": 65,
+    "seo_name": "Герметики / Клеи / Мастики / Монтажные пены",
+    "title": "Герметики, клеи",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 34,
+    "caption": "Керамогранит",
+    "id": "1197",
+    "name": "Керамогранит",
+    "org_count": 28,
+    "seo_name": "Керамогранит",
+    "title": "Керамогранит",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 41,
+    "caption": "Замки, скобяные изделия",
+    "id": "594",
+    "name": "Замки / Скобяные изделия",
+    "org_count": 26,
+    "title": "Замки, скобяные изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 27,
+    "caption": "Оргстекло, поликарбонат",
+    "id": "688",
+    "name": "Оргстекло / Поликарбонат",
+    "org_count": 21,
+    "title": "Оргстекло, поликарбонат",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 51,
+    "caption": "Комплектующие для дверей",
+    "id": "10458",
+    "name": "Комплектующие для дверей",
+    "org_count": 37,
+    "seo_name": "Комплектующие для дверей / Дверная фурнитура",
+    "title": "Комплектующие для дверей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 39,
+    "caption": "Стеновые панели",
+    "id": "583",
+    "name": "Стеновые панели",
+    "org_count": 31,
+    "title": "Стеновые панели",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 8,
+    "caption": "Изготовление витражей, мозаики",
+    "id": "1558",
+    "name": "Изготовление витражей / мозаики",
+    "org_count": 8,
+    "title": "Изготовление витражей, мозаики",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 24,
+    "caption": "Подвесные потолки",
+    "id": "110393",
+    "name": "Подвесные потолки",
+    "org_count": 22,
+    "title": "Подвесные потолки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 23,
+    "caption": "Огнезащитные материалы",
+    "id": "47773",
+    "name": "Огнезащитные материалы",
+    "org_count": 20,
+    "seo_name": "Огнезащитные составы / материалы",
+    "title": "Огнезащитные материалы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 24,
+    "caption": "Светопрозрачные конструкции",
+    "id": "110381",
+    "name": "Светопрозрачные конструкции",
+    "org_count": 22,
+    "title": "Светопрозрачные конструкции",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Грязепоглощающие покрытия",
+    "id": "53266",
+    "name": "Грязепоглощающие покрытия",
+    "org_count": 3,
+    "seo_name": "Грязезащитные покрытия",
+    "title": "Грязепоглощающие покрытия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 1,
+    "caption": "Плёнки для стёкол зданий",
+    "id": "47342",
+    "name": "Тонировочные / защитные плёнки для стёкол зданий, конструкций",
+    "org_count": 1,
+    "title": "Плёнки для стёкол зданий",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Порошковые краски",
+    "id": "590",
+    "name": "Порошковые краски",
+    "org_count": 3,
+    "title": "Порошковые краски",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Стекломагнезитовые листы",
+    "id": "24184",
+    "name": "Стекломагнезитовые листы",
+    "org_count": 3,
+    "seo_name": "Стекломагнезитовые листы (СМЛ)",
+    "title": "Стекломагнезитовые листы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Противопожарные конструкции",
+    "id": "56669",
+    "name": "Противопожарные конструкции",
+    "org_count": 2,
+    "seo_name": "Противопожарные двери и конструкции",
+    "title": "Противопожарные конструкции",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 56,
+    "caption": "Автоматические ворота, шлагбаумы",
+    "id": "993",
+    "name": "Автоматические ворота / шлагбаумы",
+    "org_count": 49,
+    "title": "Автоматические ворота, шлагбаумы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 44,
+    "caption": "Бетон, раствор",
+    "id": "1196",
+    "name": "Бетон / Раствор",
+    "org_count": 40,
+    "seo_name": "Бетон / Раствор",
+    "title": "Бетон, раствор",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 88,
+    "caption": "Пиломатериалы, лесоматериалы",
+    "id": "281",
+    "name": "Пиломатериалы / Лесоматериалы",
+    "org_count": 74,
+    "title": "Пиломатериалы, лесоматериалы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 150,
+    "caption": "Теплоизоляция",
+    "id": "293",
+    "name": "Теплоизоляционные материалы",
+    "org_count": 131,
+    "seo_name": "Теплоизоляция, теплоизоляционные материалы",
+    "title": "Теплоизоляция",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 119,
+    "caption": "Фасадные материалы, конструкции",
+    "id": "503",
+    "name": "Фасадные материалы / конструкции",
+    "org_count": 107,
+    "seo_name": "Фасадные материалы, конструкции и системы",
+    "title": "Фасадные материалы, конструкции",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 47,
+    "caption": "Железобетонные изделия",
+    "id": "283",
+    "name": "Железобетонные изделия",
+    "org_count": 47,
+    "seo_name": "Железобетонные изделия / Заводы ЖБИ",
+    "title": "Железобетонные изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 32,
+    "caption": "Кирпич",
+    "id": "579",
+    "name": "Кирпич",
+    "org_count": 28,
+    "title": "Кирпич",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 43,
+    "caption": "Песок, щебень",
+    "id": "10274",
+    "name": "Песок / Щебень",
+    "org_count": 37,
+    "seo_name": "Песок, щебень, керамзит",
+    "title": "Песок, щебень",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 25,
+    "caption": "Строительные блоки",
+    "id": "16623",
+    "name": "Строительные блоки",
+    "org_count": 25,
+    "title": "Строительные блоки",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 85,
+    "caption": "Заборы, ограждения",
+    "id": "937",
+    "name": "Заборы / Ограждения",
+    "org_count": 78,
+    "seo_name": "Заборы / Ограждения / Ворота",
+    "title": "Заборы, ограждения",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 78,
+    "caption": "ДСП, ДВП, фанера",
+    "id": "768",
+    "name": "ДСП / ДВП / Фанера",
+    "org_count": 66,
+    "title": "ДСП, ДВП, фанера",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 103,
+    "caption": "Сухие строительные смеси",
+    "id": "578",
+    "name": "Сухие строительные смеси",
+    "org_count": 88,
+    "title": "Сухие строительные смеси",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 84,
+    "caption": "Металлоконструкции для строительства",
+    "id": "473",
+    "name": "Металлоконструкции для строительства зданий / сооружений",
+    "org_count": 81,
+    "seo_name": "Металлоконструкции для строительства зданий и сооружений — продажа, изготовление, монтаж",
+    "title": "Металлоконструкции для строительства",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 34,
+    "caption": "Тротуарная плитка",
+    "id": "540",
+    "name": "Тротуарная плитка",
+    "org_count": 34,
+    "title": "Тротуарная плитка",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 16,
+    "caption": "Сэндвич-панели",
+    "id": "7669",
+    "name": "Сэндвич-панели",
+    "org_count": 15,
+    "seo_name": "Сэндвич-панели — продажа, монтаж, производство",
+    "title": "Сэндвич-панели",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 73,
+    "caption": "Гидроизоляция",
+    "id": "280",
+    "name": "Гидроизоляционные материалы",
+    "org_count": 62,
+    "title": "Гидроизоляция",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 33,
+    "caption": "Цемент",
+    "id": "10902",
+    "name": "Цемент",
+    "org_count": 24,
+    "seo_name": "Цемент",
+    "title": "Цемент",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 37,
+    "caption": "Материалы для дорожного строительства",
+    "id": "549",
+    "name": "Материалы для дорожного строительства",
+    "org_count": 34,
+    "seo_name": "Материалы для дорожного строительства (строительства дорог)",
+    "title": "Материалы для дорожного строительства",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 45,
+    "caption": "Звукоизоляция",
+    "id": "8740",
+    "name": "Звукоизоляционные материалы",
+    "org_count": 33,
+    "seo_name": "Материалы для звукоизоляции (шумоизоляции)",
+    "title": "Звукоизоляция",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 29,
+    "caption": "Системы водоотведения",
+    "id": "25194",
+    "name": "Системы водоотведения",
+    "org_count": 22,
+    "seo_name": "Водостоки, водосточные системы",
+    "title": "Системы водоотведения",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 16,
+    "caption": "Резиновые покрытия",
+    "id": "102043",
+    "name": "Резиновые покрытия / Комплектующие",
+    "org_count": 15,
+    "title": "Резиновые покрытия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 11,
+    "caption": "Асбестотехническая продукция",
+    "id": "19119",
+    "name": "Асбестотехническая продукция",
+    "org_count": 7,
+    "seo_name": "Асбестотехническая продукция / Паронит",
+    "title": "Асбестотехническая продукция",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Автоматические двери",
+    "id": "110445",
+    "name": "Автоматические двери",
+    "org_count": 4,
+    "title": "Автоматические двери",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Огнеупорные материалы",
+    "id": "15769",
+    "name": "Огнеупорные материалы / изделия",
+    "org_count": 5,
+    "title": "Огнеупорные материалы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Вторичные стройматериалы",
+    "id": "69342",
+    "name": "Вторичные строительные материалы",
+    "org_count": 3,
+    "title": "Вторичные стройматериалы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 110,
+    "caption": "Кондиционеры",
+    "id": "596",
+    "name": "Кондиционеры",
+    "org_count": 97,
+    "seo_name": "Кондиционеры — продажа, ремонт",
+    "title": "Кондиционеры",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 80,
+    "caption": "Котельное оборудование",
+    "id": "669",
+    "name": "Котельное оборудование / Котлы",
+    "org_count": 57,
+    "title": "Котельное оборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 147,
+    "caption": "Вентиляционное, тепловое оборудование",
+    "id": "447",
+    "name": "Вентиляционное / тепловое оборудование",
+    "org_count": 124,
+    "title": "Вентиляционное, тепловое оборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 49,
+    "caption": "Тёплый пол",
+    "id": "1559",
+    "name": "Продажа / установка тёплых полов",
+    "org_count": 37,
+    "seo_name": "Теплые полы — продажа, монтаж",
+    "title": "Тёплый пол",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 48,
+    "caption": "Обслуживание климатического оборудования",
+    "id": "24812",
+    "name": "Ремонт / обслуживание климатического оборудования",
+    "org_count": 46,
+    "title": "Обслуживание климатического оборудования",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 17,
+    "caption": "Очистители воздуха",
+    "id": "1617",
+    "name": "Очистители воздуха",
+    "org_count": 15,
+    "seo_name": "Увлажнители, мойки, очистители воздуха",
+    "title": "Очистители воздуха",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 57,
+    "caption": "Мебельная фурнитура",
+    "id": "351",
+    "name": "Мебельная фурнитура",
+    "org_count": 50,
+    "title": "Мебельная фурнитура",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 13,
+    "caption": "Мебельные ткани",
+    "id": "785",
+    "name": "Мебельные ткани",
+    "org_count": 12,
+    "seo_name": "Мебельные ткани (ткани для обивки мебели)",
+    "title": "Мебельные ткани",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 21,
+    "caption": "ЛДСП, ДВПО, МДФ",
+    "id": "777",
+    "name": "ЛДСП / ДВПО / МДФ",
+    "org_count": 17,
+    "seo_name": "ЛДСП / МДФ / ДВПО",
+    "title": "ЛДСП, ДВПО, МДФ",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 40,
+    "caption": "Мебельные фасады",
+    "id": "773",
+    "name": "Мебельные фасады",
+    "org_count": 37,
+    "title": "Мебельные фасады",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 6,
+    "caption": "Облицовочные материалы для мебели",
+    "id": "776",
+    "name": "Облицовочные материалы для мебели",
+    "org_count": 6,
+    "title": "Облицовочные материалы для мебели",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 92,
+    "caption": "Жалюзи",
+    "id": "282",
+    "name": "Жалюзи",
+    "org_count": 81,
+    "seo_name": "Жалюзи / Рулонные шторы",
+    "title": "Жалюзи",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 60,
+    "caption": "Печи и камины",
+    "id": "548",
+    "name": "Печи / Камины",
+    "org_count": 36,
+    "title": "Печи и камины",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 30,
+    "caption": "Кованые изделия",
+    "id": "278",
+    "name": "Кованые изделия",
+    "org_count": 29,
+    "seo_name": "Кованые изделия и элементы",
+    "title": "Кованые изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 41,
+    "caption": "Интерьерные лестницы, ограждения",
+    "id": "277",
+    "name": "Интерьерные лестницы / Ограждения",
+    "org_count": 37,
+    "title": "Интерьерные лестницы, ограждения",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 27,
+    "caption": "Рольставни",
+    "id": "110436",
+    "name": "Рольставни",
+    "org_count": 23,
+    "title": "Рольставни",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 34,
+    "caption": "Карнизы",
+    "id": "394",
+    "name": "Карнизы",
+    "org_count": 28,
+    "seo_name": "Карнизы / Гардины",
+    "title": "Карнизы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 18,
+    "caption": "Керамические изделия",
+    "id": "395",
+    "name": "Керамические изделия",
+    "org_count": 16,
+    "seo_name": "Керамика, керамические изделия",
+    "title": "Керамические изделия",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 2,
+    "caption": "Декоративные аквасистемы",
+    "id": "53267",
+    "name": "Продажа / монтаж декоративных аквасистем",
+    "org_count": 2,
+    "title": "Декоративные аквасистемы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 3,
+    "caption": "Чердачные лестницы",
+    "id": "110443",
+    "name": "Чердачные лестницы",
+    "org_count": 3,
+    "title": "Чердачные лестницы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 78,
+    "caption": "Строительное оборудование",
+    "id": "19490",
+    "name": "Строительное оборудование / Вспомогательные устройства",
+    "org_count": 70,
+    "title": "Строительное оборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 169,
+    "caption": "Светотехника",
+    "id": "591",
+    "name": "Светотехника",
+    "org_count": 144,
+    "title": "Светотехника",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 178,
+    "caption": "Электротехника",
+    "id": "399",
+    "name": "Электротехническая продукция",
+    "org_count": 152,
+    "seo_name": "Электротехническая продукция, электроматериалы",
+    "title": "Электротехника",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 113,
+    "caption": "Кабель, провод",
+    "id": "595",
+    "name": "Кабель / Провод",
+    "org_count": 92,
+    "seo_name": "Кабель / Провод (кабельно-проводниковая продукция)",
+    "title": "Кабель, провод",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 104,
+    "caption": "Электроустановочные товары",
+    "id": "461",
+    "name": "Электроустановочная продукция",
+    "org_count": 79,
+    "seo_name": "Электроустановочные изделия",
+    "title": "Электроустановочные товары",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 14,
+    "caption": "Электродвигатели, редукторы",
+    "id": "674",
+    "name": "Электродвигатели / Редукторы",
+    "org_count": 13,
+    "title": "Электродвигатели, редукторы",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 54,
+    "caption": "Электронагревательное оборудование",
+    "id": "459",
+    "name": "Электронагревательное оборудование",
+    "org_count": 42,
+    "seo_name": "Электронагревательные приборы и оборудование",
+    "title": "Электронагревательное оборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 5,
+    "caption": "Ремонт электродвигателей",
+    "id": "514",
+    "name": "Ремонт электродвигателей",
+    "org_count": 5,
+    "seo_name": "Ремонт и перемотка электродвигателей",
+    "title": "Ремонт электродвигателей",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 48,
+    "caption": "Элементы питания",
+    "id": "592",
+    "name": "Элементы питания",
+    "org_count": 35,
+    "title": "Элементы питания",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 11,
+    "caption": "Электроизоляция",
+    "id": "502",
+    "name": "Электроизоляционные материалы",
+    "org_count": 9,
+    "title": "Электроизоляция",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 12,
+    "caption": "Опоры линий электропередач",
+    "id": "110334",
+    "name": "Опоры линий электропередач",
+    "org_count": 12,
+    "title": "Опоры линий электропередач",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 17,
+    "caption": "Лифты",
+    "id": "128",
+    "name": "Подъёмные грузовые / пассажирские устройства",
+    "org_count": 15,
+    "seo_name": "Продажа, монтаж и обслуживание лифтов",
+    "title": "Лифты",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 8,
+    "caption": "Изделия из стеклопластика",
+    "id": "67041",
+    "name": "Изделия из стеклопластика",
+    "org_count": 8,
+    "title": "Изделия из стеклопластика",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Подвеска и подсветка для картин",
+    "id": "110361",
+    "name": "Подвеска / Подсветка для картин",
+    "org_count": 3,
+    "title": "Подвеска и подсветка для картин",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 17,
+    "caption": "Грузоподъёмное оборудование для строительства",
+    "id": "110649",
+    "name": "Грузоподъёмное оборудование для строительства",
+    "org_count": 17,
+    "title": "Грузоподъёмное оборудование для строительства",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 16,
+    "caption": "Звуковое, световое, видеооборудование",
+    "id": "16397",
+    "name": "Звуковое / световое / видеооборудование",
+    "org_count": 12,
+    "seo_name": "Звуковое / световое / видео- оборудование",
+    "title": "Звуковое, световое, видеооборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 7,
+    "caption": "Проекционное оборудование",
+    "id": "16400",
+    "name": "Проекционное оборудование",
+    "org_count": 7,
+    "seo_name": "Продажа / аренда проекторов, проекционного оборудования",
+    "title": "Проекционное оборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 15,
+    "caption": "Банковское оборудование",
+    "id": "436",
+    "name": "Банковское оборудование",
+    "org_count": 12,
+    "seo_name": "Банковское оборудование",
+    "title": "Банковское оборудование",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 4,
+    "caption": "Прокат мультимедийного оборудования",
+    "id": "51010",
+    "name": "Прокат мультимедийного / презентационного оборудования",
+    "org_count": 4,
+    "seo_name": "Аренда мультимедийного / презентационного оборудования",
+    "title": "Прокат мультимедийного оборудования",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 5,
+    "caption": "Ремонт мультимедийного, светового оборудования",
+    "id": "110348",
+    "name": "Ремонт мультимедийного / презентационного / светового оборудования",
+    "org_count": 4,
+    "title": "Ремонт мультимедийного, светового оборудования",
+    "type": "rubric"
+  },
+  {
+    "branch_count": 55,
+    "caption": "Системное администрирование",
+    "id": "921",
+    "name": "Услуги системного администрирования",
+    "org_count": 52,
+    "seo_name": "Услуги системного администрирования / Обслуживание компьютеров (IT-аутсорсинг)",
+    "title": "Системное администрирование",
+    "type": "rubric"
+  }
+]

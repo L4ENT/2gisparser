@@ -65,6 +65,10 @@ class DataFetcher:
                 data['image_url'] = self.parse_style_attribute(style)
 
             with contextlib.suppress(NoSuchElementException):
+                web_site_a_el = el.find_element_by_css_selector('._13ptbeu')
+                data['2gis_url'] = web_site_a_el.get_attribute('href')
+
+            with contextlib.suppress(NoSuchElementException):
                 category_el = el.find_element_by_css_selector('._oqoid')
                 # print(self.parse_style_attribute(style))
                 data['category'] = category_el.text
@@ -99,7 +103,7 @@ class DataFetcher:
             # print(data['closed'])
 
             if data.get('name'):
-                self._db.organizations.insert_one(data)
+                self._db.orgs.insert_one(data)
 
         self._visited_pages.append(url)
 
@@ -112,17 +116,15 @@ class DataFetcher:
             self.get_pages_to_visit()
 
     def fetch_all_rubrics(self):
-        with open(settings.FILES_DIR / '2gis-rubrics-data.json') as f:
+        with open(settings.FILES_DIR / 'rubrics-choice-2.json') as f:
             rubrics = json.loads(f.read())
-        for rubric in rubrics:
+        for rubric in sorted(
+                rubrics, key=lambda x: x['org_count'], reverse=True):
             rubric_name = rubric['name']
             print(f'Start parse rubric {rubric_name}')
             self.fetch(rubric)
             print(f'Rubric {rubric_name} done')
-            self._db.organizations.insert_one({
-                'name': rubric_name,
-                'loaded': True
-            })
+
 
 
 def main():
