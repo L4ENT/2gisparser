@@ -1,10 +1,9 @@
 import contextlib
 import json
-from time import sleep
 from urllib.parse import quote, urlparse
 from pymongo import MongoClient
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException, JavascriptException
+from selenium.common.exceptions import NoSuchElementException
 import re
 
 from georuza import settings
@@ -130,7 +129,7 @@ class DataFetcher:
         url_obj = urlparse(url)
         re_result = re.search(r'/khabarovsk/firm/(.*)', url_obj.path)
         if (re_result):
-            firm_id, *_ = re_result.groups()
+            firm_id, _ = re_result.groups()
         else:
             firm_id = None
         return firm_id
@@ -138,45 +137,21 @@ class DataFetcher:
     def reset_firm_id_for_all_orgs(self):
         orgs_with_url = self._db.orgs.find({'2gis_url': {'$exists': True}})
         for org in orgs_with_url:
-            firm_id = self.get_firm_id_from_url(org['2gis_url'])
+            firm_id =self.get_firm_id_from_url(org['2gis_url'])
             print(f'NAME: {org["name"]} FIRM ID: {firm_id}')
             if firm_id:
                 org['firm_id'] = firm_id
-                self._db.orgs.update({'_id': org['_id']}, {"$set": org}, upsert=False)
+                self._db.orgs.save(org)
 
     def fetch_firm_info(self, firm_id):
         self._driver.get(f'https://2gis.ru/firm/{firm_id}')
-        try:
-            initial_state = self._driver.execute_script('return initialState;')
-        except JavascriptException:
-            return
-
-        data = initial_state.get('data', {}).get('entity', {}).get('profile', {}).get(
-            firm_id, {}
-        ).get('data', None)
-        if data and 'name' in data:
-            print(f'Name: {data["name"]} Id: {firm_id}')
-            self._db.firms.update_one(
-                {'firm_id': str(firm_id)},
-                {'$set': data},
-                upsert=True
-            )
-        else:
-            print(f'Cant load info: {firm_id}')
-
-    def fetch_all_firms(self):
-        firm_ids = self._db.orgs.distinct('firm_id')
-        print(len(firm_ids))
-        for count, firm_id in enumerate(firm_ids, 1):
-            self.fetch_firm_info(firm_id)
-            print(f'Total: {count}')
-            print()
-            sleep(1)
+        initial_state = self._driver.execute_script('return initialState;')
+        print(initial_state)
 
 
 def main():
     fetcher = DataFetcher(get_db())
-    fetcher.fetch_all_firms()
+    fetcher.fetch_all_rubrics()
 
 
 main()
