@@ -7,6 +7,8 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException, JavascriptException
 import re
 
+from selenium.webdriver.remote.remote_connection import RemoteConnection
+
 from georuza import settings
 
 
@@ -17,12 +19,25 @@ def get_db():
 
 class DataFetcher:
 
-    def __init__(self, db) -> None:
-        self._driver = webdriver.Chrome()
+    def __init__(self, db, local=True) -> None:
+        if local:
+            self._driver = webdriver.Chrome()
+        else:
+            self._driver = webdriver.Remote(
+                command_executor=RemoteConnection(
+                    settings.SELENIUM_COMMAND_EXECUTOR_URL,
+                    keep_alive=True,
+                    resolve_ip=False
+                ),
+                desired_capabilities={'browserName': 'chrome', 'javascriptEnabled': True},
+            )
         self._db = db
         self._visited_pages = []
         self._pages_to_visit = set()
         self._loaded_rubrics = {}
+
+    def close(self):
+        self._driver.close()
 
     @staticmethod
     def parse_style_attribute(style_string: str):
@@ -166,7 +181,9 @@ class DataFetcher:
 
     def fetch_all_firms(self):
         firm_ids = self._db.orgs.distinct('firm_id')
-        print(len(firm_ids))
+        loaded_firms = self._db.firms.distinct('firm_id')
+        firm_ids = set(firm_ids) - set(loaded_firms)
+        print(f'Records to upload: {len(firm_ids)}')
         for count, firm_id in enumerate(firm_ids, 1):
             self.fetch_firm_info(firm_id)
             print(f'Total: {count}')
@@ -176,7 +193,10 @@ class DataFetcher:
 
 def main():
     fetcher = DataFetcher(get_db())
-    fetcher.fetch_all_firms()
-
+    try:
+        fetcher.fetch_all_firms()
+    except KeyboardInterrupt:
+        print('Closing a connection')
+        fetcher.close()
 
 main()

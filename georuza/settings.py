@@ -19,3 +19,5 @@ _2GIS_API_URLS = {
     2: _2GIS_API2_URL,
     3: _2GIS_API3_URL
 }
+
+SELENIUM_COMMAND_EXECUTOR_URL = 'http://selenium.139.162.210.217.nip.io/wd/hub'
